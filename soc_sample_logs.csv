@@ -1,0 +1,1001 @@
+timestamp,log_type,src_ip,dst_ip,username,message
+2025-06-27 21:13:01,auth_failure,166.186.169.69,111.198.92.30,thull,Failed login attempt for user thull from 166.186.169.69
+2025-06-27 16:37:03,malware_alert,141.250.247.54,212.120.204.37,montgomeryjohn,Malware detected: Spyware on host 212.120.204.37
+2025-06-27 21:56:02,auth_success,198.165.159.67,132.184.50.44,thomas15,Successful login for user thomas15 from 198.165.159.67
+2025-06-27 20:13:37,malware_alert,141.22.41.210,216.85.243.248,trujilloana,Malware detected: Worm on host 216.85.243.248
+2025-06-28 01:33:57,network,89.134.83.44,193.0.149.202,vclayton,Connection from 89.134.83.44 to 193.0.149.202 on port 91
+2025-06-27 10:38:36,malware_alert,36.7.239.51,5.198.12.177,lindathomas,Malware detected: Ransomware on host 5.198.12.177
+2025-06-28 02:34:51,malware_alert,210.147.3.26,167.212.30.96,turnerkelly,Malware detected: Worm on host 167.212.30.96
+2025-06-27 18:28:58,system,45.1.66.87,206.77.31.64,zdavis,System started: synergize turn-key networks
+2025-06-27 19:12:46,auth_failure,107.7.191.50,80.164.194.204,rjones,Failed login attempt for user rjones from 107.7.191.50
+2025-06-27 10:51:26,auth_success,17.60.141.60,7.33.95.210,aimee33,Successful login for user aimee33 from 17.60.141.60
+2025-06-27 18:42:11,malware_alert,207.90.250.146,223.195.213.56,christopher91,Malware detected: Worm on host 223.195.213.56
+2025-06-28 03:18:27,auth_failure,186.186.137.38,81.88.175.159,thorntonnathan,Failed login attempt for user thorntonnathan from 186.186.137.38
+2025-06-28 02:10:21,auth_success,96.127.94.194,23.0.49.104,montoyacynthia,Successful login for user montoyacynthia from 96.127.94.194
+2025-06-28 03:10:06,system,204.151.139.175,76.16.184.201,myersmitchell,System started: embrace robust metrics
+2025-06-27 21:42:41,system,75.214.148.138,214.189.10.243,gilesandrew,System started: brand mission-critical portals
+2025-06-28 01:09:41,auth_success,83.68.151.159,131.232.30.143,gwilliams,Successful login for user gwilliams from 83.68.151.159
+2025-06-27 19:01:52,system,198.89.132.125,158.24.5.128,heidiharris,System started: revolutionize leading-edge methodologies
+2025-06-28 03:51:11,network,26.244.57.110,222.39.111.192,alexandermaldonado,Connection from 26.244.57.110 to 222.39.111.192 on port 431
+2025-06-27 12:22:44,malware_alert,192.175.19.238,216.7.163.240,annsmith,Malware detected: Spyware on host 216.7.163.240
+2025-06-27 10:30:42,system,209.118.88.126,215.175.37.244,sbell,System started: innovate synergistic applications
+2025-06-28 01:41:03,auth_failure,192.36.60.42,221.66.233.131,smithjames,Failed login attempt for user smithjames from 192.36.60.42
+2025-06-27 18:09:58,malware_alert,142.71.60.17,221.66.209.53,moralesjacqueline,Malware detected: Ransomware on host 221.66.209.53
+2025-06-27 11:44:06,malware_alert,160.191.156.14,116.37.203.32,seandyer,Malware detected: Ransomware on host 116.37.203.32
+2025-06-28 02:51:43,network,204.0.36.66,125.63.140.50,zwilliams,Connection from 204.0.36.66 to 125.63.140.50 on port 300
+2025-06-28 04:35:07,auth_success,133.87.134.44,208.120.169.142,aherring,Successful login for user aherring from 133.87.134.44
+2025-06-27 10:31:37,malware_alert,128.234.38.30,194.100.33.148,davidbanks,Malware detected: Spyware on host 194.100.33.148
+2025-06-27 18:44:02,malware_alert,139.169.130.230,123.44.111.11,johnsonrobin,Malware detected: Worm on host 123.44.111.11
+2025-06-27 17:45:41,network,20.68.251.45,206.198.195.187,wigginsjoshua,Connection from 20.68.251.45 to 206.198.195.187 on port 440
+2025-06-27 13:59:22,system,77.42.198.63,218.18.33.123,sheena09,System started: visualize rich experiences
+2025-06-28 07:05:56,auth_success,187.235.26.182,220.4.190.21,alan24,Successful login for user alan24 from 187.235.26.182
+2025-06-27 09:42:22,system,151.128.58.155,209.36.43.233,nelsonedward,System started: benchmark distributed relationships
+2025-06-27 12:38:08,system,172.161.48.38,143.87.88.47,parkermelody,System started: drive intuitive content
+2025-06-28 02:52:24,auth_failure,164.201.160.174,158.203.134.224,zrogers,Failed login attempt for user zrogers from 164.201.160.174
+2025-06-27 17:13:34,malware_alert,135.108.173.20,209.53.219.122,matthew22,Malware detected: Worm on host 209.53.219.122
+2025-06-27 15:01:33,malware_alert,204.178.4.11,22.86.88.146,brucesmith,Malware detected: Spyware on host 22.86.88.146
+2025-06-28 04:17:48,auth_success,185.70.54.72,168.111.59.219,omiller,Successful login for user omiller from 185.70.54.72
+2025-06-28 01:07:40,auth_success,181.84.161.233,135.92.92.249,shortmelissa,Successful login for user shortmelissa from 181.84.161.233
+2025-06-27 18:59:56,malware_alert,7.156.230.164,223.232.35.253,pscott,Malware detected: Trojan on host 223.232.35.253
+2025-06-28 00:54:06,malware_alert,11.110.137.180,214.85.197.68,igray,Malware detected: Ransomware on host 214.85.197.68
+2025-06-27 14:07:20,network,95.57.198.210,59.22.88.133,ushelton,Connection from 95.57.198.210 to 59.22.88.133 on port 394
+2025-06-27 17:03:32,system,172.44.237.108,205.192.12.28,petersonsydney,System started: productize turn-key vortals
+2025-06-27 20:44:13,network,48.112.192.214,195.132.25.234,jennifer71,Connection from 48.112.192.214 to 195.132.25.234 on port 238
+2025-06-27 09:27:18,system,34.133.201.253,66.153.183.19,alexis75,System started: cultivate granular eyeballs
+2025-06-27 15:09:22,system,219.225.222.100,209.19.102.20,gregorylinda,System started: engineer intuitive e-commerce
+2025-06-28 06:16:53,malware_alert,110.175.121.173,166.55.148.3,melissayates,Malware detected: Adware on host 166.55.148.3
+2025-06-27 09:53:05,system,196.186.86.15,184.36.136.11,cameron44,System started: revolutionize transparent architectures
+2025-06-28 06:18:37,network,136.38.6.52,109.88.42.59,mcmahontimothy,Connection from 136.38.6.52 to 109.88.42.59 on port 314
+2025-06-27 11:32:55,auth_failure,124.83.148.25,202.180.158.130,djohnson,Failed login attempt for user djohnson from 124.83.148.25
+2025-06-27 20:40:01,system,134.126.168.27,160.82.218.173,georgedavid,System started: harness sticky schemas
+2025-06-28 05:14:11,system,220.68.237.151,131.217.172.203,vmendez,System started: visualize 24/7 methodologies
+2025-06-27 13:55:31,system,205.4.81.201,161.241.224.238,benjaminmyers,System started: disintermediate dynamic bandwidth
+2025-06-27 14:51:27,system,161.52.151.71,4.81.225.99,bscott,System started: mesh killer e-services
+2025-06-28 03:00:21,auth_failure,29.113.140.222,211.161.87.50,ronaldknight,Failed login attempt for user ronaldknight from 29.113.140.222
+2025-06-27 10:53:10,auth_success,3.169.157.216,73.254.121.202,moodyryan,Successful login for user moodyryan from 3.169.157.216
+2025-06-27 15:13:51,system,148.196.151.255,219.71.180.108,martinezheather,System started: seize cross-media ROI
+2025-06-27 19:56:40,auth_failure,23.96.51.249,137.43.174.158,aaronhopkins,Failed login attempt for user aaronhopkins from 23.96.51.249
+2025-06-27 09:24:47,malware_alert,199.63.18.131,219.207.234.7,cantujesse,Malware detected: Spyware on host 219.207.234.7
+2025-06-27 08:37:28,malware_alert,71.49.106.40,144.134.168.87,anthonyclark,Malware detected: Trojan on host 144.134.168.87
+2025-06-27 21:26:12,network,146.186.123.132,169.234.118.167,brittanymiller,Connection from 146.186.123.132 to 169.234.118.167 on port 203
+2025-06-28 00:18:39,malware_alert,205.64.80.63,170.128.61.221,lesliesanchez,Malware detected: Worm on host 170.128.61.221
+2025-06-27 14:35:48,system,110.183.112.223,212.59.66.101,longjacqueline,System started: enable next-generation content
+2025-06-27 13:05:14,auth_success,212.141.150.19,219.88.150.216,wrightcynthia,Successful login for user wrightcynthia from 212.141.150.19
+2025-06-27 16:19:05,system,199.29.159.114,154.179.210.122,scott54,System started: syndicate e-business ROI
+2025-06-27 23:17:41,network,106.118.73.166,220.194.199.203,katrinareynolds,Connection from 106.118.73.166 to 220.194.199.203 on port 261
+2025-06-27 22:06:54,malware_alert,14.185.29.74,222.204.69.57,webbjames,Malware detected: Adware on host 222.204.69.57
+2025-06-27 18:31:48,auth_success,30.94.238.150,214.255.222.214,danny48,Successful login for user danny48 from 30.94.238.150
+2025-06-28 07:08:02,auth_success,223.21.254.177,46.223.7.230,bramirez,Successful login for user bramirez from 223.21.254.177
+2025-06-28 03:36:05,system,104.166.20.190,110.86.250.126,qgarcia,System started: seize front-end methodologies
+2025-06-27 10:04:11,auth_success,34.68.212.33,25.199.129.229,david32,Successful login for user david32 from 34.68.212.33
+2025-06-28 03:00:32,auth_success,116.162.148.6,182.186.153.166,jenkinscynthia,Successful login for user jenkinscynthia from 116.162.148.6
+2025-06-27 15:56:01,auth_failure,184.234.105.42,136.209.236.147,davidmartinez,Failed login attempt for user davidmartinez from 184.234.105.42
+2025-06-28 05:24:18,auth_success,180.119.14.30,201.106.142.36,nnewton,Successful login for user nnewton from 180.119.14.30
+2025-06-28 04:40:55,malware_alert,148.94.12.12,177.237.86.235,vevans,Malware detected: Worm on host 177.237.86.235
+2025-06-27 18:29:18,auth_failure,141.206.65.218,103.144.89.103,mathistiffany,Failed login attempt for user mathistiffany from 141.206.65.218
+2025-06-28 06:53:12,system,192.242.147.36,102.118.240.147,keymorgan,System started: scale distributed e-services
+2025-06-28 04:50:19,network,50.109.89.62,93.127.77.77,patrick56,Connection from 50.109.89.62 to 93.127.77.77 on port 101
+2025-06-27 15:54:27,network,197.189.183.125,121.46.20.219,david27,Connection from 197.189.183.125 to 121.46.20.219 on port 213
+2025-06-28 03:52:35,auth_failure,166.56.213.33,166.59.138.137,lauragonzales,Failed login attempt for user lauragonzales from 166.56.213.33
+2025-06-27 21:50:12,malware_alert,35.47.208.19,133.107.5.112,michaelpaul,Malware detected: Spyware on host 133.107.5.112
+2025-06-27 08:53:38,network,217.133.87.181,217.26.0.87,robert08,Connection from 217.133.87.181 to 217.26.0.87 on port 52
+2025-06-27 16:37:44,network,199.220.120.49,216.38.238.28,rlewis,Connection from 199.220.120.49 to 216.38.238.28 on port 290
+2025-06-28 00:55:53,malware_alert,74.108.66.8,128.116.209.164,brycepatterson,Malware detected: Adware on host 128.116.209.164
+2025-06-27 07:11:36,system,15.44.15.201,197.208.151.211,matthewgarcia,System started: matrix strategic vortals
+2025-06-27 19:03:29,auth_success,186.103.147.70,130.214.171.251,miguelclark,Successful login for user miguelclark from 186.103.147.70
+2025-06-27 09:00:21,auth_failure,214.115.175.30,185.164.108.170,zachary64,Failed login attempt for user zachary64 from 214.115.175.30
+2025-06-28 03:09:48,system,143.91.137.153,105.40.75.157,murrayjenny,System started: streamline transparent models
+2025-06-27 07:43:37,auth_failure,133.122.186.116,73.215.201.215,nhenson,Failed login attempt for user nhenson from 133.122.186.116
+2025-06-27 18:42:08,system,189.169.116.211,195.147.240.54,haleyjohn,System started: enhance end-to-end niches
+2025-06-27 07:42:40,system,155.212.122.158,50.69.186.17,jenniferwaters,System started: deliver plug-and-play users
+2025-06-28 05:28:31,system,215.106.206.107,70.84.99.225,jessicawright,System started: envisioneer clicks-and-mortar users
+2025-06-27 11:31:11,malware_alert,209.151.184.2,116.92.25.10,maddoxannette,Malware detected: Worm on host 116.92.25.10
+2025-06-27 18:12:05,auth_success,50.15.6.147,47.94.99.194,holmesemily,Successful login for user holmesemily from 50.15.6.147
+2025-06-27 10:50:17,auth_failure,101.245.229.232,180.100.169.176,tranmark,Failed login attempt for user tranmark from 101.245.229.232
+2025-06-28 06:02:32,system,200.132.240.72,139.80.29.175,taylorjamie,System started: redefine rich networks
+2025-06-27 17:11:34,auth_failure,198.188.61.169,215.122.98.143,lgomez,Failed login attempt for user lgomez from 198.188.61.169
+2025-06-27 16:31:45,network,38.233.179.24,193.183.156.69,abryant,Connection from 38.233.179.24 to 193.183.156.69 on port 438
+2025-06-28 06:53:06,auth_success,42.111.51.186,197.236.117.1,janet14,Successful login for user janet14 from 42.111.51.186
+2025-06-27 12:48:49,auth_success,44.58.111.133,166.37.61.254,clarkleslie,Successful login for user clarkleslie from 44.58.111.133
+2025-06-27 08:43:51,system,199.175.179.95,183.58.182.170,max24,System started: utilize synergistic networks
+2025-06-27 16:38:42,malware_alert,212.214.195.96,131.236.183.135,allenalexander,Malware detected: Ransomware on host 131.236.183.135
+2025-06-27 20:32:56,malware_alert,209.255.58.99,173.216.101.245,patriciarobinson,Malware detected: Trojan on host 173.216.101.245
+2025-06-28 05:18:45,auth_failure,147.247.4.212,58.39.1.86,qsmith,Failed login attempt for user qsmith from 147.247.4.212
+2025-06-28 06:29:51,auth_failure,207.179.129.193,39.216.154.165,kfinley,Failed login attempt for user kfinley from 207.179.129.193
+2025-06-28 02:46:34,network,126.75.220.169,97.105.2.64,sonyafrye,Connection from 126.75.220.169 to 97.105.2.64 on port 212
+2025-06-28 04:34:02,auth_success,42.197.171.65,211.81.43.140,nmckinney,Successful login for user nmckinney from 42.197.171.65
+2025-06-27 12:13:54,network,218.227.84.158,203.134.250.251,crawfordmichael,Connection from 218.227.84.158 to 203.134.250.251 on port 190
+2025-06-27 19:28:45,auth_success,215.142.128.35,220.243.101.61,joseph76,Successful login for user joseph76 from 215.142.128.35
+2025-06-27 19:30:22,malware_alert,108.156.148.170,209.30.34.1,sarah07,Malware detected: Trojan on host 209.30.34.1
+2025-06-27 08:41:27,auth_success,188.235.193.138,129.82.226.5,jody04,Successful login for user jody04 from 188.235.193.138
+2025-06-27 12:37:51,malware_alert,201.40.187.117,195.92.114.117,qgood,Malware detected: Ransomware on host 195.92.114.117
+2025-06-27 20:19:51,auth_failure,85.21.150.196,54.157.96.240,sabrinalam,Failed login attempt for user sabrinalam from 85.21.150.196
+2025-06-27 11:54:39,auth_success,160.37.61.200,193.79.245.23,michael45,Successful login for user michael45 from 160.37.61.200
+2025-06-28 00:35:47,network,166.229.102.39,73.2.48.240,ramosmatthew,Connection from 166.229.102.39 to 73.2.48.240 on port 177
+2025-06-27 13:43:45,malware_alert,15.215.226.134,193.131.228.0,chadboyle,Malware detected: Trojan on host 193.131.228.0
+2025-06-27 18:12:38,auth_failure,174.178.1.107,213.9.111.121,davidcrystal,Failed login attempt for user davidcrystal from 174.178.1.107
+2025-06-27 18:05:07,auth_failure,207.122.35.64,128.223.101.212,tosborne,Failed login attempt for user tosborne from 207.122.35.64
+2025-06-27 10:48:35,malware_alert,175.69.143.120,155.160.233.236,meganbrady,Malware detected: Spyware on host 155.160.233.236
+2025-06-28 00:26:55,auth_success,28.74.233.139,130.83.223.86,zfields,Successful login for user zfields from 28.74.233.139
+2025-06-27 11:43:02,auth_failure,6.229.212.223,198.168.148.139,crystalburton,Failed login attempt for user crystalburton from 6.229.212.223
+2025-06-28 01:18:46,auth_failure,143.242.205.62,197.25.15.92,sierrahouse,Failed login attempt for user sierrahouse from 143.242.205.62
+2025-06-27 18:10:58,auth_success,47.38.164.141,202.51.106.118,frankmclean,Successful login for user frankmclean from 47.38.164.141
+2025-06-27 13:15:17,malware_alert,184.179.4.137,150.203.96.115,christopher07,Malware detected: Spyware on host 150.203.96.115
+2025-06-28 06:27:06,system,22.125.60.171,152.233.170.186,aguilarmichael,System started: maximize end-to-end networks
+2025-06-27 10:16:24,network,208.199.19.122,136.169.105.8,millermichelle,Connection from 208.199.19.122 to 136.169.105.8 on port 51
+2025-06-27 21:12:05,system,140.53.161.143,223.19.69.5,edwardsmaureen,System started: utilize turn-key interfaces
+2025-06-27 21:31:44,malware_alert,9.25.175.65,180.184.59.236,gdelacruz,Malware detected: Adware on host 180.184.59.236
+2025-06-27 17:44:34,auth_failure,72.146.188.213,177.126.173.219,colonhayley,Failed login attempt for user colonhayley from 72.146.188.213
+2025-06-28 04:29:09,network,200.184.139.244,161.83.37.28,castrolisa,Connection from 200.184.139.244 to 161.83.37.28 on port 62
+2025-06-27 20:36:04,network,26.126.120.43,202.132.187.210,jlutz,Connection from 26.126.120.43 to 202.132.187.210 on port 319
+2025-06-27 13:15:21,auth_failure,177.60.56.118,204.69.54.173,lisa13,Failed login attempt for user lisa13 from 177.60.56.118
+2025-06-27 20:14:38,system,194.244.115.90,186.173.100.31,thomaspeters,System started: incubate strategic deliverables
+2025-06-27 08:11:47,malware_alert,133.30.130.43,117.163.26.106,yrogers,Malware detected: Spyware on host 117.163.26.106
+2025-06-27 14:32:02,system,211.205.151.176,104.93.21.107,jessicasmith,System started: matrix dynamic paradigms
+2025-06-27 21:40:47,auth_success,185.245.204.207,168.86.25.63,samantha16,Successful login for user samantha16 from 185.245.204.207
+2025-06-28 06:31:43,system,116.23.223.79,222.132.51.167,dwhite,System started: exploit back-end solutions
+2025-06-28 05:53:19,network,134.41.221.101,65.93.150.96,richardvaughn,Connection from 134.41.221.101 to 65.93.150.96 on port 121
+2025-06-27 23:52:51,auth_failure,99.247.223.67,131.79.113.170,qgibbs,Failed login attempt for user qgibbs from 99.247.223.67
+2025-06-28 03:05:03,network,38.32.62.146,96.201.178.251,jdonaldson,Connection from 38.32.62.146 to 96.201.178.251 on port 325
+2025-06-28 00:57:17,network,201.37.248.162,85.156.186.241,sheryldominguez,Connection from 201.37.248.162 to 85.156.186.241 on port 227
+2025-06-28 06:25:58,auth_failure,74.44.166.111,201.80.38.35,webbpamela,Failed login attempt for user webbpamela from 74.44.166.111
+2025-06-28 01:13:40,auth_success,215.62.224.218,53.7.70.160,tammybell,Successful login for user tammybell from 215.62.224.218
+2025-06-28 01:20:45,network,30.208.17.35,170.141.79.81,acunningham,Connection from 30.208.17.35 to 170.141.79.81 on port 332
+2025-06-27 15:09:22,system,2.5.197.188,213.128.183.14,andrewholloway,System started: deliver clicks-and-mortar paradigms
+2025-06-27 18:46:41,auth_success,19.148.180.94,205.57.167.205,afrench,Successful login for user afrench from 19.148.180.94
+2025-06-28 02:18:33,network,186.167.78.231,212.105.28.54,william86,Connection from 186.167.78.231 to 212.105.28.54 on port 328
+2025-06-27 12:52:01,auth_failure,86.112.29.8,118.250.0.49,thomaswalker,Failed login attempt for user thomaswalker from 86.112.29.8
+2025-06-27 17:54:32,auth_failure,158.203.179.241,168.35.86.73,whitney85,Failed login attempt for user whitney85 from 158.203.179.241
+2025-06-27 10:16:21,malware_alert,223.47.132.247,109.37.38.212,gmaynard,Malware detected: Trojan on host 109.37.38.212
+2025-06-27 09:36:24,network,196.49.227.11,33.183.5.94,zsimon,Connection from 196.49.227.11 to 33.183.5.94 on port 40
+2025-06-27 18:07:47,system,169.117.239.138,213.109.111.104,thomas29,System started: redefine front-end mindshare
+2025-06-27 19:13:38,network,3.97.181.253,62.64.92.155,gonzalezsusan,Connection from 3.97.181.253 to 62.64.92.155 on port 355
+2025-06-27 23:57:56,auth_success,52.199.105.171,130.167.82.103,andrea06,Successful login for user andrea06 from 52.199.105.171
+2025-06-27 21:06:26,malware_alert,141.82.188.111,135.15.35.77,gabriel69,Malware detected: Adware on host 135.15.35.77
+2025-06-27 08:24:53,malware_alert,132.251.21.198,180.108.245.179,ericmartin,Malware detected: Trojan on host 180.108.245.179
+2025-06-28 02:03:02,malware_alert,63.142.0.107,171.38.243.210,gabrielle64,Malware detected: Trojan on host 171.38.243.210
+2025-06-27 22:42:51,network,98.167.129.110,202.192.149.73,jimmy65,Connection from 98.167.129.110 to 202.192.149.73 on port 294
+2025-06-28 04:59:08,auth_failure,175.57.129.158,172.76.129.218,dylansilva,Failed login attempt for user dylansilva from 175.57.129.158
+2025-06-27 21:20:17,malware_alert,202.54.176.80,194.209.214.148,adamsjessica,Malware detected: Adware on host 194.209.214.148
+2025-06-27 15:41:41,system,101.18.113.90,87.45.188.124,rflores,System started: grow out-of-the-box applications
+2025-06-27 13:48:58,auth_success,223.145.170.109,2.79.205.185,anthonyday,Successful login for user anthonyday from 223.145.170.109
+2025-06-28 03:57:12,auth_success,29.21.184.81,201.192.179.174,lbaker,Successful login for user lbaker from 29.21.184.81
+2025-06-27 09:34:48,auth_failure,5.94.228.224,188.0.100.226,schneiderrichard,Failed login attempt for user schneiderrichard from 5.94.228.224
+2025-06-27 18:12:56,auth_failure,61.39.81.128,124.104.63.200,marissa78,Failed login attempt for user marissa78 from 61.39.81.128
+2025-06-27 21:09:36,system,216.125.101.1,87.81.14.8,kevinlynch,System started: redefine B2B bandwidth
+2025-06-28 06:31:42,network,15.211.44.85,189.30.147.106,bakerjerry,Connection from 15.211.44.85 to 189.30.147.106 on port 166
+2025-06-27 19:21:08,system,109.192.92.31,67.161.28.169,brendagonzalez,System started: integrate wireless schemas
+2025-06-28 00:42:55,auth_failure,195.246.29.21,202.242.40.20,nancy51,Failed login attempt for user nancy51 from 195.246.29.21
+2025-06-28 01:05:52,malware_alert,215.64.184.22,164.251.226.170,jeffrey75,Malware detected: Trojan on host 164.251.226.170
+2025-06-27 12:42:07,auth_success,196.93.221.176,110.193.182.129,joannestuart,Successful login for user joannestuart from 196.93.221.176
+2025-06-27 08:28:18,malware_alert,76.193.133.132,195.111.201.187,patrick21,Malware detected: Spyware on host 195.111.201.187
+2025-06-27 21:16:10,auth_failure,158.36.89.196,55.238.155.112,ryan56,Failed login attempt for user ryan56 from 158.36.89.196
+2025-06-27 10:53:08,auth_failure,198.35.94.134,170.123.133.200,pmoore,Failed login attempt for user pmoore from 198.35.94.134
+2025-06-27 07:55:38,system,218.209.173.231,152.145.237.3,dmarshall,System started: re-contextualize magnetic methodologies
+2025-06-28 05:40:10,network,191.146.221.223,104.6.184.253,ruizphillip,Connection from 191.146.221.223 to 104.6.184.253 on port 73
+2025-06-28 03:11:04,auth_success,29.205.161.13,34.150.128.200,mdavis,Successful login for user mdavis from 29.205.161.13
+2025-06-27 21:09:01,auth_failure,211.158.149.29,27.167.39.127,hallbradley,Failed login attempt for user hallbradley from 211.158.149.29
+2025-06-27 09:22:52,malware_alert,180.38.36.151,22.97.52.166,figueroajames,Malware detected: Spyware on host 22.97.52.166
+2025-06-28 05:33:28,auth_success,58.146.179.131,46.254.201.87,sarahreyes,Successful login for user sarahreyes from 58.146.179.131
+2025-06-28 05:50:18,auth_success,118.25.148.1,49.60.128.76,aguilarjane,Successful login for user aguilarjane from 118.25.148.1
+2025-06-27 21:18:16,auth_success,180.76.212.32,206.3.132.222,espinozajoshua,Successful login for user espinozajoshua from 180.76.212.32
+2025-06-28 02:05:14,network,212.89.83.253,148.115.75.1,robertmason,Connection from 212.89.83.253 to 148.115.75.1 on port 420
+2025-06-27 21:27:50,auth_failure,223.48.3.85,60.166.246.8,jwhite,Failed login attempt for user jwhite from 223.48.3.85
+2025-06-27 14:07:33,auth_failure,144.72.167.93,149.122.92.99,shawnbell,Failed login attempt for user shawnbell from 144.72.167.93
+2025-06-28 06:12:06,system,128.98.105.118,222.70.71.185,rubenking,System started: syndicate B2B e-services
+2025-06-27 08:38:47,auth_failure,159.29.169.100,196.152.97.50,lopezsarah,Failed login attempt for user lopezsarah from 159.29.169.100
+2025-06-27 08:09:40,malware_alert,200.60.105.177,98.172.239.16,katiemcdonald,Malware detected: Adware on host 98.172.239.16
+2025-06-28 04:00:33,network,223.224.12.74,67.4.59.192,pam83,Connection from 223.224.12.74 to 67.4.59.192 on port 67
+2025-06-28 06:02:05,malware_alert,221.227.171.117,63.148.151.147,carlyjohnson,Malware detected: Adware on host 63.148.151.147
+2025-06-27 22:29:11,malware_alert,171.69.79.220,203.128.33.182,brownjohn,Malware detected: Ransomware on host 203.128.33.182
+2025-06-27 11:19:16,network,204.223.87.206,217.42.32.125,trevor32,Connection from 204.223.87.206 to 217.42.32.125 on port 309
+2025-06-27 22:33:26,system,187.104.185.235,222.11.117.152,meghan71,System started: orchestrate magnetic initiatives
+2025-06-27 22:19:25,system,15.39.6.213,182.184.123.210,janet06,System started: architect e-business e-markets
+2025-06-27 22:18:23,network,207.74.139.161,208.33.235.187,alyssaknox,Connection from 207.74.139.161 to 208.33.235.187 on port 425
+2025-06-27 23:27:19,auth_failure,132.58.21.254,63.137.0.129,harrischristina,Failed login attempt for user harrischristina from 132.58.21.254
+2025-06-27 08:17:16,auth_failure,129.124.174.74,33.200.237.229,eric41,Failed login attempt for user eric41 from 129.124.174.74
+2025-06-27 16:23:13,system,215.6.96.171,149.190.215.28,madisonbaker,System started: evolve revolutionary eyeballs
+2025-06-27 09:45:05,system,191.133.114.129,15.213.228.248,uflores,System started: cultivate proactive initiatives
+2025-06-27 08:15:37,auth_success,180.70.72.206,19.206.19.195,owright,Successful login for user owright from 180.70.72.206
+2025-06-27 13:40:05,system,135.99.50.142,140.33.123.155,morganandrea,System started: leverage rich web-readiness
+2025-06-27 20:30:33,system,192.234.113.63,96.203.105.177,wmoses,System started: optimize dot-com networks
+2025-06-27 12:24:28,network,40.53.112.91,142.76.12.105,colin32,Connection from 40.53.112.91 to 142.76.12.105 on port 124
+2025-06-28 07:11:05,system,200.235.173.111,156.24.81.191,eric58,System started: iterate 24/365 e-tailers
+2025-06-27 17:52:05,auth_success,162.14.48.164,176.3.189.126,kellermark,Successful login for user kellermark from 162.14.48.164
+2025-06-28 05:12:45,network,195.75.6.207,64.231.88.46,linda24,Connection from 195.75.6.207 to 64.231.88.46 on port 115
+2025-06-27 23:43:19,system,54.42.128.224,154.47.239.223,millertiffany,System started: harness virtual technologies
+2025-06-27 19:43:54,auth_success,50.89.210.126,64.134.177.22,charles55,Successful login for user charles55 from 50.89.210.126
+2025-06-27 08:12:28,network,201.38.85.51,23.246.70.22,jordanbrown,Connection from 201.38.85.51 to 23.246.70.22 on port 191
+2025-06-28 00:25:32,auth_success,142.109.155.92,175.245.62.255,berickson,Successful login for user berickson from 142.109.155.92
+2025-06-28 03:19:56,auth_success,131.72.61.161,62.140.104.159,fjohnson,Successful login for user fjohnson from 131.72.61.161
+2025-06-28 04:46:55,system,139.176.4.188,12.31.30.18,alicia18,System started: incentivize rich technologies
+2025-06-28 02:36:18,malware_alert,158.32.76.31,196.59.193.109,jennadickerson,Malware detected: Ransomware on host 196.59.193.109
+2025-06-27 12:53:07,auth_failure,137.172.114.174,20.166.71.250,andreawright,Failed login attempt for user andreawright from 137.172.114.174
+2025-06-27 11:45:01,network,90.182.49.147,199.124.152.38,nicoleperkins,Connection from 90.182.49.147 to 199.124.152.38 on port 280
+2025-06-27 16:01:56,network,51.41.39.128,203.122.254.13,bryanjackson,Connection from 51.41.39.128 to 203.122.254.13 on port 169
+2025-06-27 20:45:06,auth_failure,220.80.88.103,204.211.4.120,melissapatel,Failed login attempt for user melissapatel from 220.80.88.103
+2025-06-27 12:00:19,malware_alert,79.141.205.87,216.211.66.81,qdudley,Malware detected: Trojan on host 216.211.66.81
+2025-06-27 21:31:43,system,132.231.151.40,45.110.243.108,gillbrian,System started: exploit innovative systems
+2025-06-27 11:59:51,auth_failure,121.19.110.246,201.40.24.38,georgemichael,Failed login attempt for user georgemichael from 121.19.110.246
+2025-06-28 03:14:38,auth_failure,147.7.214.119,201.3.151.163,andrewroman,Failed login attempt for user andrewroman from 147.7.214.119
+2025-06-28 04:42:40,auth_failure,53.184.91.10,136.234.167.153,zcardenas,Failed login attempt for user zcardenas from 53.184.91.10
+2025-06-28 06:22:55,auth_success,197.101.96.114,207.42.185.156,gdominguez,Successful login for user gdominguez from 197.101.96.114
+2025-06-27 16:13:20,auth_failure,183.135.23.250,116.62.21.146,williammorton,Failed login attempt for user williammorton from 183.135.23.250
+2025-06-28 06:23:05,malware_alert,195.231.70.200,147.78.64.216,hescobar,Malware detected: Trojan on host 147.78.64.216
+2025-06-27 20:53:46,auth_failure,22.55.231.102,132.102.195.237,harrisdakota,Failed login attempt for user harrisdakota from 22.55.231.102
+2025-06-27 22:22:53,auth_success,173.0.137.141,1.94.184.185,rebeccastanley,Successful login for user rebeccastanley from 173.0.137.141
+2025-06-27 14:37:04,auth_success,194.9.58.24,198.66.28.89,lawsonsarah,Successful login for user lawsonsarah from 194.9.58.24
+2025-06-28 00:20:07,system,174.241.205.235,165.207.252.150,christopher61,System started: scale proactive ROI
+2025-06-27 11:08:43,auth_success,49.113.87.142,188.73.85.181,luisflynn,Successful login for user luisflynn from 49.113.87.142
+2025-06-28 03:30:48,malware_alert,189.11.200.13,200.232.33.231,brownphyllis,Malware detected: Worm on host 200.232.33.231
+2025-06-27 23:26:06,auth_failure,40.172.208.17,217.238.14.28,cynthia93,Failed login attempt for user cynthia93 from 40.172.208.17
+2025-06-27 22:32:40,auth_failure,212.107.237.124,173.140.124.134,mrowland,Failed login attempt for user mrowland from 212.107.237.124
+2025-06-27 16:13:07,auth_failure,132.252.82.18,162.141.162.184,huntangelica,Failed login attempt for user huntangelica from 132.252.82.18
+2025-06-28 02:14:43,network,189.123.28.203,221.105.189.59,ginahess,Connection from 189.123.28.203 to 221.105.189.59 on port 256
+2025-06-28 06:11:01,system,39.33.202.19,62.221.161.133,glenda16,System started: morph efficient initiatives
+2025-06-27 14:36:18,auth_success,210.100.49.222,64.242.227.199,pamelarussell,Successful login for user pamelarussell from 210.100.49.222
+2025-06-27 23:32:29,malware_alert,171.64.206.214,193.43.143.80,vschneider,Malware detected: Spyware on host 193.43.143.80
+2025-06-27 07:28:26,network,90.101.27.27,89.143.170.202,annwarner,Connection from 90.101.27.27 to 89.143.170.202 on port 78
+2025-06-28 06:05:20,auth_success,131.129.125.174,193.74.114.142,dawnchapman,Successful login for user dawnchapman from 131.129.125.174
+2025-06-28 05:22:10,network,31.6.252.160,141.139.105.80,ocohen,Connection from 31.6.252.160 to 141.139.105.80 on port 381
+2025-06-28 00:21:18,system,36.125.143.166,41.227.109.61,marissaromero,System started: embrace open-source synergies
+2025-06-27 15:39:03,malware_alert,193.74.108.185,178.0.155.46,watsonjon,Malware detected: Spyware on host 178.0.155.46
+2025-06-27 17:23:18,system,191.14.130.205,204.165.159.147,samuel68,System started: syndicate cutting-edge deliverables
+2025-06-27 17:01:26,system,5.38.88.90,218.7.76.186,natashathomas,System started: integrate integrated experiences
+2025-06-27 16:31:56,auth_failure,210.45.253.124,217.175.200.137,shawna76,Failed login attempt for user shawna76 from 210.45.253.124
+2025-06-28 04:22:00,auth_failure,193.238.249.162,209.51.247.35,xharrington,Failed login attempt for user xharrington from 193.238.249.162
+2025-06-27 10:54:20,auth_success,160.28.61.249,62.107.54.16,richardsonkatie,Successful login for user richardsonkatie from 160.28.61.249
+2025-06-27 17:30:32,network,39.37.73.244,34.139.61.170,hector47,Connection from 39.37.73.244 to 34.139.61.170 on port 63
+2025-06-27 08:28:53,system,166.180.150.163,23.142.155.120,wnewton,System started: innovate granular paradigms
+2025-06-27 18:19:03,malware_alert,213.70.200.134,191.122.111.137,robinmann,Malware detected: Ransomware on host 191.122.111.137
+2025-06-27 11:29:37,malware_alert,205.99.34.220,218.125.5.16,obradley,Malware detected: Worm on host 218.125.5.16
+2025-06-27 13:08:44,system,57.13.96.40,103.46.77.163,jasonestes,System started: incubate out-of-the-box bandwidth
+2025-06-27 17:44:17,auth_success,41.95.169.4,144.109.201.18,amandapage,Successful login for user amandapage from 41.95.169.4
+2025-06-27 12:05:05,malware_alert,7.147.60.32,139.158.12.241,catherine18,Malware detected: Adware on host 139.158.12.241
+2025-06-28 06:01:27,network,171.44.202.242,140.238.33.244,megan50,Connection from 171.44.202.242 to 140.238.33.244 on port 73
+2025-06-27 22:08:51,malware_alert,76.155.169.163,193.234.170.187,kingkeith,Malware detected: Spyware on host 193.234.170.187
+2025-06-27 17:20:05,auth_success,148.27.139.241,203.56.169.223,boyerdarin,Successful login for user boyerdarin from 148.27.139.241
+2025-06-27 20:43:40,malware_alert,97.71.23.144,190.5.27.86,amy67,Malware detected: Worm on host 190.5.27.86
+2025-06-27 12:54:34,system,133.189.34.80,210.235.126.137,bondbrandi,System started: facilitate mission-critical networks
+2025-06-27 21:04:41,auth_failure,70.28.68.72,220.134.79.253,kelseyjohnston,Failed login attempt for user kelseyjohnston from 70.28.68.72
+2025-06-28 00:13:41,network,205.149.43.39,139.193.205.69,derrickliu,Connection from 205.149.43.39 to 139.193.205.69 on port 362
+2025-06-27 18:04:32,auth_success,147.108.93.139,49.93.40.223,christianvillanueva,Successful login for user christianvillanueva from 147.108.93.139
+2025-06-27 22:18:15,network,213.210.235.142,16.140.221.173,amanda72,Connection from 213.210.235.142 to 16.140.221.173 on port 270
+2025-06-28 01:27:08,auth_success,216.239.197.2,203.64.133.97,madisonyang,Successful login for user madisonyang from 216.239.197.2
+2025-06-28 06:55:53,system,212.17.170.147,124.42.12.192,stefanie27,System started: harness visionary e-services
+2025-06-27 18:07:12,network,201.25.243.43,202.51.101.107,tracy58,Connection from 201.25.243.43 to 202.51.101.107 on port 46
+2025-06-28 05:48:21,network,198.183.198.127,178.24.98.119,nicholasfinley,Connection from 198.183.198.127 to 178.24.98.119 on port 201
+2025-06-28 00:21:31,auth_failure,212.110.108.73,192.157.126.0,robertokemp,Failed login attempt for user robertokemp from 212.110.108.73
+2025-06-28 02:22:19,system,213.175.62.126,222.24.134.128,nicholas05,System started: e-enable integrated architectures
+2025-06-27 21:34:35,system,212.220.188.91,222.50.145.124,nclark,System started: strategize e-business platforms
+2025-06-27 08:41:24,system,222.238.25.81,200.33.14.110,jessedavis,System started: synergize transparent partnerships
+2025-06-27 07:19:37,auth_success,214.91.216.218,124.196.15.100,palmercassandra,Successful login for user palmercassandra from 214.91.216.218
+2025-06-27 15:26:39,network,207.115.253.214,216.99.19.228,mbowman,Connection from 207.115.253.214 to 216.99.19.228 on port 167
+2025-06-27 14:09:08,system,97.165.178.231,200.202.86.233,rlewis,System started: architect clicks-and-mortar eyeballs
+2025-06-27 23:58:17,auth_success,120.187.52.116,217.71.213.158,umurphy,Successful login for user umurphy from 120.187.52.116
+2025-06-27 13:19:00,auth_success,197.48.153.75,211.251.202.216,nwood,Successful login for user nwood from 197.48.153.75
+2025-06-28 06:47:02,auth_failure,212.90.229.245,168.122.234.145,washingtondouglas,Failed login attempt for user washingtondouglas from 212.90.229.245
+2025-06-27 23:28:34,network,212.168.169.197,52.126.15.145,wardlisa,Connection from 212.168.169.197 to 52.126.15.145 on port 181
+2025-06-27 11:53:44,network,82.228.114.250,202.193.248.3,cjohnson,Connection from 82.228.114.250 to 202.193.248.3 on port 247
+2025-06-27 19:54:13,auth_failure,106.123.34.167,223.168.44.177,eric29,Failed login attempt for user eric29 from 106.123.34.167
+2025-06-28 01:06:08,auth_failure,141.138.215.186,1.71.81.214,imoon,Failed login attempt for user imoon from 141.138.215.186
+2025-06-27 14:20:02,auth_failure,169.225.57.222,178.186.163.105,deborah11,Failed login attempt for user deborah11 from 169.225.57.222
+2025-06-28 04:32:44,system,130.188.7.154,18.194.178.234,vunderwood,System started: benchmark dot-com schemas
+2025-06-27 08:24:08,network,135.206.101.47,193.81.216.248,osantos,Connection from 135.206.101.47 to 193.81.216.248 on port 115
+2025-06-27 20:25:46,system,73.47.201.228,205.39.112.204,melaniecochran,System started: benchmark virtual partnerships
+2025-06-27 15:40:35,malware_alert,108.80.0.10,216.65.78.141,tbraun,Malware detected: Ransomware on host 216.65.78.141
+2025-06-28 05:29:29,system,92.229.135.227,98.8.17.29,bmyers,System started: envisioneer web-enabled e-tailers
+2025-06-27 17:32:47,auth_success,41.55.58.150,22.208.226.88,aflores,Successful login for user aflores from 41.55.58.150
+2025-06-27 23:52:36,system,136.68.82.105,220.108.116.62,kennethwallace,System started: whiteboard real-time action-items
+2025-06-28 06:48:08,malware_alert,217.205.2.173,103.204.188.250,hughesdawn,Malware detected: Spyware on host 103.204.188.250
+2025-06-28 04:20:34,auth_failure,50.67.12.73,207.100.21.15,kcarr,Failed login attempt for user kcarr from 50.67.12.73
+2025-06-27 16:27:57,auth_failure,205.72.87.129,110.40.133.248,james74,Failed login attempt for user james74 from 205.72.87.129
+2025-06-27 19:28:03,auth_success,223.234.197.211,174.176.29.116,clarkjose,Successful login for user clarkjose from 223.234.197.211
+2025-06-27 08:47:08,system,192.205.252.125,217.236.163.228,christy35,System started: deploy end-to-end experiences
+2025-06-27 19:55:36,system,94.59.116.113,150.168.141.90,asweeney,System started: disintermediate sticky infrastructures
+2025-06-28 07:01:30,system,194.134.41.172,88.184.109.13,oyoung,System started: drive mission-critical e-markets
+2025-06-27 09:30:34,auth_failure,50.247.20.70,216.233.248.62,granterica,Failed login attempt for user granterica from 50.247.20.70
+2025-06-28 05:21:02,auth_failure,12.3.29.174,98.179.175.151,pbradford,Failed login attempt for user pbradford from 12.3.29.174
+2025-06-27 15:14:10,auth_failure,171.216.75.31,190.100.38.166,asmith,Failed login attempt for user asmith from 171.216.75.31
+2025-06-27 19:33:06,malware_alert,97.169.107.121,185.163.190.203,garciachristina,Malware detected: Trojan on host 185.163.190.203
+2025-06-28 05:16:03,system,211.143.120.217,213.76.97.250,stevenstrong,System started: scale frictionless systems
+2025-06-27 18:56:53,malware_alert,193.13.244.35,211.237.43.64,collinscrystal,Malware detected: Spyware on host 211.237.43.64
+2025-06-27 19:01:44,auth_success,152.144.217.29,122.241.179.110,ronalddrake,Successful login for user ronalddrake from 152.144.217.29
+2025-06-28 02:11:45,system,215.122.132.177,148.21.247.208,wfuller,System started: extend plug-and-play portals
+2025-06-27 20:36:53,system,138.123.214.65,30.202.242.200,dawn57,System started: re-intermediate front-end methodologies
+2025-06-28 02:17:16,auth_success,70.133.201.24,181.212.185.223,lisabean,Successful login for user lisabean from 70.133.201.24
+2025-06-27 14:31:53,auth_success,212.64.175.114,125.222.52.10,mrichardson,Successful login for user mrichardson from 212.64.175.114
+2025-06-27 18:33:31,malware_alert,223.176.250.242,57.234.168.26,jared60,Malware detected: Spyware on host 57.234.168.26
+2025-06-27 16:27:43,auth_failure,218.247.164.225,196.202.109.142,marie67,Failed login attempt for user marie67 from 218.247.164.225
+2025-06-27 15:55:39,system,206.68.182.49,8.88.35.195,nicholas66,System started: generate bleeding-edge technologies
+2025-06-28 03:17:15,system,173.0.86.95,217.59.167.97,rmoore,System started: transition user-centric interfaces
+2025-06-27 23:58:22,auth_failure,197.53.57.56,185.186.208.197,lmeyers,Failed login attempt for user lmeyers from 197.53.57.56
+2025-06-27 08:55:08,auth_failure,195.98.250.217,119.13.201.200,cameron35,Failed login attempt for user cameron35 from 195.98.250.217
+2025-06-27 23:57:27,auth_failure,101.173.126.188,95.208.171.228,parsonsgregory,Failed login attempt for user parsonsgregory from 101.173.126.188
+2025-06-27 10:18:28,system,213.186.67.29,59.252.2.136,zwhite,System started: grow extensible users
+2025-06-27 10:47:07,network,74.26.49.218,62.79.117.3,jessica44,Connection from 74.26.49.218 to 62.79.117.3 on port 129
+2025-06-27 23:14:02,malware_alert,145.25.203.25,161.21.195.233,hubbardjennifer,Malware detected: Trojan on host 161.21.195.233
+2025-06-27 22:44:06,malware_alert,157.27.34.76,214.150.84.251,bliu,Malware detected: Spyware on host 214.150.84.251
+2025-06-27 08:37:24,network,69.218.22.103,147.195.234.118,smithcolleen,Connection from 69.218.22.103 to 147.195.234.118 on port 270
+2025-06-27 15:12:09,network,21.106.107.164,180.116.194.164,mezaann,Connection from 21.106.107.164 to 180.116.194.164 on port 200
+2025-06-27 18:49:37,auth_failure,68.46.48.24,194.118.150.149,lorimichael,Failed login attempt for user lorimichael from 68.46.48.24
+2025-06-28 03:28:21,auth_success,158.79.35.94,192.0.171.5,taylornathan,Successful login for user taylornathan from 158.79.35.94
+2025-06-28 02:53:26,network,178.149.122.154,204.71.223.240,clintonmoody,Connection from 178.149.122.154 to 204.71.223.240 on port 418
+2025-06-27 23:16:32,malware_alert,171.75.237.63,202.200.231.114,john12,Malware detected: Adware on host 202.200.231.114
+2025-06-28 00:00:52,malware_alert,219.168.193.55,219.74.249.188,andrew02,Malware detected: Ransomware on host 219.74.249.188
+2025-06-27 17:06:50,network,182.180.33.160,196.190.175.43,poolejessica,Connection from 182.180.33.160 to 196.190.175.43 on port 80
+2025-06-28 05:34:39,system,216.88.15.143,21.130.152.209,lisa53,System started: whiteboard mission-critical mindshare
+2025-06-27 22:17:17,network,144.21.132.151,135.104.71.94,michaelross,Connection from 144.21.132.151 to 135.104.71.94 on port 165
+2025-06-27 07:25:31,malware_alert,15.26.86.173,218.159.208.55,phillipburch,Malware detected: Adware on host 218.159.208.55
+2025-06-27 22:47:01,system,181.24.134.95,145.33.230.39,forbesdeborah,System started: implement real-time e-services
+2025-06-27 21:11:49,auth_success,198.86.240.171,135.66.8.56,tylersavage,Successful login for user tylersavage from 198.86.240.171
+2025-06-28 03:44:59,auth_success,207.67.155.108,160.174.158.46,adam92,Successful login for user adam92 from 207.67.155.108
+2025-06-28 03:05:35,auth_success,153.227.242.7,44.170.221.193,daykaren,Successful login for user daykaren from 153.227.242.7
+2025-06-27 15:56:02,system,123.152.220.103,206.173.147.110,michael06,System started: disintermediate viral info-mediaries
+2025-06-27 18:23:14,auth_success,56.164.102.129,214.5.172.50,zgutierrez,Successful login for user zgutierrez from 56.164.102.129
+2025-06-27 20:46:42,auth_failure,91.114.131.194,172.6.222.159,bryan29,Failed login attempt for user bryan29 from 91.114.131.194
+2025-06-28 04:22:58,network,106.244.13.78,11.128.38.60,raymondboyd,Connection from 106.244.13.78 to 11.128.38.60 on port 434
+2025-06-27 07:45:18,malware_alert,221.148.56.245,144.13.55.41,jonathan46,Malware detected: Adware on host 144.13.55.41
+2025-06-27 19:07:43,auth_success,207.255.226.119,205.159.188.32,pnelson,Successful login for user pnelson from 207.255.226.119
+2025-06-28 06:18:13,system,176.176.154.77,184.231.113.126,johnsonerika,System started: synergize cross-media schemas
+2025-06-27 21:35:36,network,191.50.102.183,208.204.183.211,jason61,Connection from 191.50.102.183 to 208.204.183.211 on port 281
+2025-06-27 09:58:28,network,93.0.131.168,223.232.76.181,meghan27,Connection from 93.0.131.168 to 223.232.76.181 on port 420
+2025-06-28 01:16:35,malware_alert,142.87.58.37,103.14.34.78,pli,Malware detected: Worm on host 103.14.34.78
+2025-06-27 15:45:30,network,212.38.205.66,210.11.15.232,james07,Connection from 212.38.205.66 to 210.11.15.232 on port 409
+2025-06-27 21:11:38,auth_success,131.60.16.20,40.170.21.86,christopher52,Successful login for user christopher52 from 131.60.16.20
+2025-06-28 04:42:34,network,168.21.228.125,134.113.132.238,torreskyle,Connection from 168.21.228.125 to 134.113.132.238 on port 75
+2025-06-28 05:37:09,system,208.58.63.17,195.158.173.52,fchen,System started: deploy real-time models
+2025-06-28 04:53:42,auth_success,188.14.128.89,115.74.126.77,mfuller,Successful login for user mfuller from 188.14.128.89
+2025-06-27 23:46:43,auth_success,136.194.45.65,146.165.217.219,kcooper,Successful login for user kcooper from 136.194.45.65
+2025-06-27 15:12:12,malware_alert,173.174.1.246,126.49.156.189,ldaniel,Malware detected: Worm on host 126.49.156.189
+2025-06-28 01:12:08,auth_failure,42.113.119.138,169.199.118.236,graykatherine,Failed login attempt for user graykatherine from 42.113.119.138
+2025-06-27 18:37:16,system,128.24.161.254,51.90.239.87,geoffreygrant,System started: syndicate web-enabled infrastructures
+2025-06-27 12:11:42,malware_alert,206.19.172.46,220.31.142.157,myerstodd,Malware detected: Spyware on host 220.31.142.157
+2025-06-27 14:08:50,auth_success,35.177.113.139,71.169.193.213,glawson,Successful login for user glawson from 35.177.113.139
+2025-06-27 21:10:30,system,134.96.255.22,25.171.12.217,hbarrera,System started: grow real-time supply-chains
+2025-06-27 08:35:05,auth_success,220.234.245.238,170.181.116.133,mallorymiller,Successful login for user mallorymiller from 220.234.245.238
+2025-06-27 19:41:06,auth_failure,206.220.83.177,203.75.159.44,zachary47,Failed login attempt for user zachary47 from 206.220.83.177
+2025-06-27 16:39:39,auth_success,75.57.11.144,142.203.71.242,martinezkathy,Successful login for user martinezkathy from 75.57.11.144
+2025-06-27 18:17:31,system,142.97.85.223,97.152.59.6,christinaedwards,System started: synthesize cross-platform applications
+2025-06-28 04:04:28,malware_alert,192.20.81.177,139.136.84.205,james81,Malware detected: Trojan on host 139.136.84.205
+2025-06-28 06:08:39,network,135.5.6.173,123.1.156.247,ystewart,Connection from 135.5.6.173 to 123.1.156.247 on port 31
+2025-06-28 01:04:17,system,149.44.253.112,129.170.214.164,adrake,System started: evolve vertical channels
+2025-06-27 15:58:56,system,83.245.13.16,210.1.185.251,changjessica,System started: productize bricks-and-clicks architectures
+2025-06-27 15:24:39,auth_success,199.188.127.95,130.137.96.122,ashleyblackwell,Successful login for user ashleyblackwell from 199.188.127.95
+2025-06-27 09:27:46,auth_success,212.233.50.39,72.70.179.231,karen47,Successful login for user karen47 from 212.233.50.39
+2025-06-27 12:08:13,network,191.183.152.190,164.222.170.41,vmoody,Connection from 191.183.152.190 to 164.222.170.41 on port 242
+2025-06-27 12:21:46,auth_success,188.234.58.52,169.3.167.89,maryreeves,Successful login for user maryreeves from 188.234.58.52
+2025-06-27 13:37:58,auth_success,136.78.205.250,121.93.210.242,christianhuynh,Successful login for user christianhuynh from 136.78.205.250
+2025-06-27 21:07:24,system,193.83.223.155,192.63.194.97,olsonjohn,System started: reinvent one-to-one markets
+2025-06-27 16:47:36,malware_alert,210.224.57.121,203.163.40.216,annalucas,Malware detected: Adware on host 203.163.40.216
+2025-06-28 00:02:07,system,152.27.78.91,141.0.169.30,kathrynhudson,System started: expedite front-end platforms
+2025-06-27 11:39:15,auth_failure,113.135.93.194,196.133.96.216,sandybaker,Failed login attempt for user sandybaker from 113.135.93.194
+2025-06-27 13:25:41,system,222.66.79.6,211.51.136.232,fosterbryan,System started: facilitate user-centric action-items
+2025-06-27 12:13:24,malware_alert,169.31.184.97,159.144.110.107,john05,Malware detected: Adware on host 159.144.110.107
+2025-06-27 12:35:07,system,133.191.41.212,222.169.146.248,connerchristine,System started: leverage B2B schemas
+2025-06-27 15:50:00,network,222.136.145.150,220.119.73.184,taylor06,Connection from 222.136.145.150 to 220.119.73.184 on port 31
+2025-06-27 13:20:17,malware_alert,30.148.136.4,83.60.181.204,kenneth27,Malware detected: Worm on host 83.60.181.204
+2025-06-27 10:02:54,auth_failure,148.198.238.195,112.109.52.28,melissa92,Failed login attempt for user melissa92 from 148.198.238.195
+2025-06-27 10:57:53,malware_alert,119.62.193.231,200.141.253.251,vunderwood,Malware detected: Spyware on host 200.141.253.251
+2025-06-27 12:39:17,malware_alert,55.3.83.250,210.163.70.240,allenjames,Malware detected: Adware on host 210.163.70.240
+2025-06-27 08:38:56,auth_success,198.177.4.247,28.9.254.159,joseph94,Successful login for user joseph94 from 198.177.4.247
+2025-06-27 20:53:57,system,168.19.166.46,166.239.147.116,nancydoyle,System started: syndicate value-added deliverables
+2025-06-28 01:15:43,system,203.214.66.32,14.202.134.149,lauren24,System started: aggregate 24/7 convergence
+2025-06-27 17:50:56,network,217.168.88.42,181.93.192.42,ejohnson,Connection from 217.168.88.42 to 181.93.192.42 on port 140
+2025-06-28 01:39:57,auth_success,3.165.153.13,79.255.116.199,robinsonjulia,Successful login for user robinsonjulia from 3.165.153.13
+2025-06-27 21:55:33,auth_success,202.50.62.100,21.27.106.4,sawyersamuel,Successful login for user sawyersamuel from 202.50.62.100
+2025-06-28 01:06:55,auth_failure,131.229.110.34,131.31.37.216,georgefischer,Failed login attempt for user georgefischer from 131.229.110.34
+2025-06-27 18:30:19,malware_alert,37.155.242.163,101.0.107.171,diana83,Malware detected: Ransomware on host 101.0.107.171
+2025-06-28 03:13:55,auth_failure,221.52.23.42,145.234.209.170,lori49,Failed login attempt for user lori49 from 221.52.23.42
+2025-06-28 02:33:10,malware_alert,96.29.177.110,207.52.45.170,reynoldslori,Malware detected: Adware on host 207.52.45.170
+2025-06-27 16:44:46,system,208.34.148.174,61.19.92.201,wongalexander,System started: integrate e-business channels
+2025-06-27 21:34:28,system,139.55.100.192,211.112.189.3,glennralph,System started: transition front-end communities
+2025-06-27 19:48:35,auth_failure,148.103.253.86,214.110.132.199,caitlin06,Failed login attempt for user caitlin06 from 148.103.253.86
+2025-06-27 07:56:38,auth_success,177.134.180.132,97.120.234.91,jasongonzalez,Successful login for user jasongonzalez from 177.134.180.132
+2025-06-27 16:26:08,malware_alert,165.71.122.252,212.154.178.94,barbaraperry,Malware detected: Ransomware on host 212.154.178.94
+2025-06-27 14:43:51,malware_alert,12.226.83.200,198.255.104.165,laurafloyd,Malware detected: Adware on host 198.255.104.165
+2025-06-27 19:34:48,auth_failure,162.15.78.170,201.115.89.81,schneideralicia,Failed login attempt for user schneideralicia from 162.15.78.170
+2025-06-27 14:47:57,system,63.30.123.95,37.1.231.231,hernandezfrederick,System started: utilize turn-key initiatives
+2025-06-27 19:11:07,network,43.128.59.47,208.108.35.41,devin83,Connection from 43.128.59.47 to 208.108.35.41 on port 365
+2025-06-28 02:35:19,auth_success,216.164.73.143,160.245.163.245,bridgetlee,Successful login for user bridgetlee from 216.164.73.143
+2025-06-27 12:45:48,auth_success,216.148.58.154,146.206.21.36,forbesheidi,Successful login for user forbesheidi from 216.148.58.154
+2025-06-28 04:29:15,system,149.203.120.191,76.192.169.114,ginamartinez,System started: morph frictionless convergence
+2025-06-27 12:52:36,auth_success,130.204.129.22,211.129.49.54,linda38,Successful login for user linda38 from 130.204.129.22
+2025-06-27 17:47:33,auth_success,179.88.184.135,198.218.89.21,dylanmartinez,Successful login for user dylanmartinez from 179.88.184.135
+2025-06-28 01:12:29,auth_failure,192.114.220.70,125.45.137.67,shelbysweeney,Failed login attempt for user shelbysweeney from 192.114.220.70
+2025-06-27 22:52:59,network,205.236.163.76,121.138.186.46,ronald51,Connection from 205.236.163.76 to 121.138.186.46 on port 423
+2025-06-27 12:18:56,malware_alert,122.207.87.52,222.191.192.1,utate,Malware detected: Trojan on host 222.191.192.1
+2025-06-27 23:16:46,network,212.130.190.84,132.62.213.96,ewatkins,Connection from 212.130.190.84 to 132.62.213.96 on port 24
+2025-06-28 00:40:55,auth_success,23.102.132.165,189.156.84.140,tina09,Successful login for user tina09 from 23.102.132.165
+2025-06-27 14:01:23,system,118.153.48.63,215.218.79.9,deniserodriguez,System started: embrace B2B technologies
+2025-06-27 22:37:25,auth_success,143.193.221.165,162.253.142.142,howard05,Successful login for user howard05 from 143.193.221.165
+2025-06-28 02:28:13,network,84.32.213.154,196.104.164.196,fitzgeraldtim,Connection from 84.32.213.154 to 196.104.164.196 on port 357
+2025-06-28 06:28:13,network,202.252.169.218,133.204.141.89,blakebuckley,Connection from 202.252.169.218 to 133.204.141.89 on port 76
+2025-06-28 01:32:17,malware_alert,186.225.199.252,9.92.115.193,jennifer17,Malware detected: Adware on host 9.92.115.193
+2025-06-27 21:11:50,auth_failure,70.50.211.132,169.163.248.40,jonathan05,Failed login attempt for user jonathan05 from 70.50.211.132
+2025-06-27 18:31:42,auth_success,215.194.147.203,187.120.56.239,zharris,Successful login for user zharris from 215.194.147.203
+2025-06-27 22:47:58,auth_success,206.119.50.27,160.90.39.58,edwardsryan,Successful login for user edwardsryan from 206.119.50.27
+2025-06-28 02:46:26,malware_alert,17.159.151.200,197.42.212.28,karenward,Malware detected: Adware on host 197.42.212.28
+2025-06-27 18:45:58,auth_success,215.34.235.93,217.44.64.231,brownjoshua,Successful login for user brownjoshua from 215.34.235.93
+2025-06-27 22:54:30,network,156.252.101.209,64.43.12.94,ashleyfrazier,Connection from 156.252.101.209 to 64.43.12.94 on port 404
+2025-06-28 01:48:29,network,67.121.162.214,215.60.203.74,kscott,Connection from 67.121.162.214 to 215.60.203.74 on port 216
+2025-06-27 20:19:56,auth_failure,186.8.54.122,195.253.18.123,sanchezjoyce,Failed login attempt for user sanchezjoyce from 186.8.54.122
+2025-06-28 03:38:16,auth_failure,70.193.58.169,37.219.198.246,cchavez,Failed login attempt for user cchavez from 70.193.58.169
+2025-06-27 15:30:11,system,148.102.221.90,205.3.140.195,angela69,System started: mesh scalable bandwidth
+2025-06-28 02:27:16,network,207.36.40.203,185.215.111.120,nicholsonashley,Connection from 207.36.40.203 to 185.215.111.120 on port 343
+2025-06-27 20:05:48,auth_failure,175.17.158.5,147.232.39.77,hailey65,Failed login attempt for user hailey65 from 175.17.158.5
+2025-06-27 16:15:49,malware_alert,211.120.71.20,211.95.229.228,ashleycontreras,Malware detected: Worm on host 211.95.229.228
+2025-06-27 17:11:02,network,93.155.31.242,33.71.52.122,ryang,Connection from 93.155.31.242 to 33.71.52.122 on port 59
+2025-06-28 04:03:29,auth_failure,216.115.140.0,15.54.8.28,tvelez,Failed login attempt for user tvelez from 216.115.140.0
+2025-06-27 23:33:44,malware_alert,146.215.149.28,96.186.183.6,paulbaker,Malware detected: Trojan on host 96.186.183.6
+2025-06-27 14:02:45,network,142.45.35.37,222.137.242.175,ggreen,Connection from 142.45.35.37 to 222.137.242.175 on port 53
+2025-06-27 22:43:41,auth_failure,2.176.157.31,216.8.1.253,tammy55,Failed login attempt for user tammy55 from 2.176.157.31
+2025-06-27 16:23:27,auth_failure,117.117.155.146,15.207.25.85,fernandezkevin,Failed login attempt for user fernandezkevin from 117.117.155.146
+2025-06-28 05:23:20,auth_success,165.30.28.218,9.101.107.195,stokesmariah,Successful login for user stokesmariah from 165.30.28.218
+2025-06-27 18:22:08,system,103.45.166.233,208.14.248.222,wmoore,System started: enhance one-to-one experiences
+2025-06-27 07:35:24,auth_success,100.224.252.245,192.196.178.135,anthony07,Successful login for user anthony07 from 100.224.252.245
+2025-06-27 21:40:40,auth_failure,139.68.193.209,153.157.153.51,bakerderrick,Failed login attempt for user bakerderrick from 139.68.193.209
+2025-06-28 06:19:26,auth_failure,108.142.239.230,98.181.49.95,matthew08,Failed login attempt for user matthew08 from 108.142.239.230
+2025-06-28 04:24:21,auth_failure,112.73.22.124,193.163.43.191,warrennatalie,Failed login attempt for user warrennatalie from 112.73.22.124
+2025-06-28 03:53:59,network,203.95.54.197,26.3.189.4,laurenallen,Connection from 203.95.54.197 to 26.3.189.4 on port 383
+2025-06-27 17:19:30,auth_success,189.223.83.67,114.192.95.236,wardemma,Successful login for user wardemma from 189.223.83.67
+2025-06-27 21:41:05,auth_failure,216.197.208.175,112.242.246.186,taylorterri,Failed login attempt for user taylorterri from 216.197.208.175
+2025-06-27 12:07:06,system,170.168.251.131,74.104.130.241,christianhernandez,System started: reinvent transparent architectures
+2025-06-28 03:47:43,auth_success,101.176.69.172,194.242.240.201,richardsonkayla,Successful login for user richardsonkayla from 101.176.69.172
+2025-06-27 07:21:15,system,151.189.193.96,140.3.168.8,stacey94,System started: exploit B2C e-tailers
+2025-06-27 11:13:31,malware_alert,212.81.88.73,194.114.58.61,bonnie89,Malware detected: Spyware on host 194.114.58.61
+2025-06-27 08:45:38,auth_success,54.228.48.159,156.149.246.64,randallward,Successful login for user randallward from 54.228.48.159
+2025-06-27 18:39:08,auth_failure,139.122.21.213,133.45.147.83,laura45,Failed login attempt for user laura45 from 139.122.21.213
+2025-06-28 06:19:52,auth_success,115.79.149.111,93.108.67.203,lhopkins,Successful login for user lhopkins from 115.79.149.111
+2025-06-27 12:21:56,malware_alert,208.12.228.22,156.58.198.187,knovak,Malware detected: Worm on host 156.58.198.187
+2025-06-27 21:54:26,auth_success,28.109.55.92,182.96.222.130,tsmith,Successful login for user tsmith from 28.109.55.92
+2025-06-27 09:22:11,network,223.133.42.54,188.231.156.60,lbrown,Connection from 223.133.42.54 to 188.231.156.60 on port 88
+2025-06-28 00:41:58,system,26.64.209.243,60.192.242.128,barbaraprice,System started: unleash end-to-end portals
+2025-06-27 08:46:24,malware_alert,15.169.57.247,150.71.172.80,larrybass,Malware detected: Spyware on host 150.71.172.80
+2025-06-27 13:45:08,auth_success,184.174.19.44,101.146.229.197,ochung,Successful login for user ochung from 184.174.19.44
+2025-06-27 10:12:19,system,88.195.192.44,22.98.164.1,rachelprice,System started: transition compelling relationships
+2025-06-27 13:32:29,auth_success,212.82.64.152,57.91.193.215,zcooper,Successful login for user zcooper from 212.82.64.152
+2025-06-27 16:41:32,auth_success,111.250.207.30,143.110.72.223,mmorton,Successful login for user mmorton from 111.250.207.30
+2025-06-27 16:37:46,malware_alert,222.151.128.172,58.62.41.158,alishavaughn,Malware detected: Spyware on host 58.62.41.158
+2025-06-27 12:50:29,auth_failure,145.76.127.192,77.101.100.149,david53,Failed login attempt for user david53 from 145.76.127.192
+2025-06-27 12:45:17,system,205.70.2.110,80.39.14.188,justin04,System started: maximize out-of-the-box platforms
+2025-06-27 13:38:02,malware_alert,144.174.167.110,12.115.222.229,petersonroger,Malware detected: Trojan on host 12.115.222.229
+2025-06-27 18:41:56,system,163.169.142.177,113.86.128.37,monica85,System started: matrix B2C paradigms
+2025-06-28 06:47:54,auth_failure,87.92.236.164,101.171.118.197,tryan,Failed login attempt for user tryan from 87.92.236.164
+2025-06-27 15:52:56,auth_failure,76.90.251.192,99.56.50.45,blakelam,Failed login attempt for user blakelam from 76.90.251.192
+2025-06-27 12:59:38,auth_success,45.76.198.241,179.181.30.133,fclark,Successful login for user fclark from 45.76.198.241
+2025-06-28 00:32:20,malware_alert,2.140.185.126,138.244.36.120,robincruz,Malware detected: Trojan on host 138.244.36.120
+2025-06-28 02:58:37,system,16.93.113.66,214.226.212.14,burnettchristina,System started: iterate open-source portals
+2025-06-27 19:41:34,system,214.201.15.99,211.118.51.84,ryan10,System started: transform world-class supply-chains
+2025-06-27 10:58:36,auth_failure,38.66.249.225,25.178.73.144,davistimothy,Failed login attempt for user davistimothy from 38.66.249.225
+2025-06-27 20:01:06,malware_alert,143.59.159.172,67.119.206.17,jwoods,Malware detected: Spyware on host 67.119.206.17
+2025-06-27 19:25:01,auth_failure,115.245.199.194,38.58.55.80,gregg41,Failed login attempt for user gregg41 from 115.245.199.194
+2025-06-27 20:22:22,system,158.118.178.17,163.12.192.104,mcaldwell,System started: architect wireless convergence
+2025-06-27 18:43:42,system,138.178.163.254,63.95.45.46,yatescharlotte,System started: seize efficient synergies
+2025-06-27 11:44:44,system,141.140.242.217,148.39.111.247,wardaustin,System started: re-contextualize proactive networks
+2025-06-28 05:18:30,network,204.44.233.244,221.6.59.89,shawn08,Connection from 204.44.233.244 to 221.6.59.89 on port 231
+2025-06-28 06:41:19,system,145.128.38.212,218.217.74.25,browndesiree,System started: innovate 24/7 e-business
+2025-06-27 21:22:21,system,203.32.228.8,204.201.54.208,lewisbianca,System started: transition efficient platforms
+2025-06-27 13:18:48,auth_success,73.243.151.110,223.117.84.47,ricardo08,Successful login for user ricardo08 from 73.243.151.110
+2025-06-27 22:03:14,system,210.103.179.205,93.83.191.23,sanchezmorgan,System started: embrace B2C e-commerce
+2025-06-27 20:06:54,malware_alert,216.51.218.129,194.37.210.8,fmoore,Malware detected: Adware on host 194.37.210.8
+2025-06-27 16:30:18,auth_success,205.28.88.87,28.92.186.244,mwade,Successful login for user mwade from 205.28.88.87
+2025-06-27 23:42:26,auth_failure,195.84.15.42,192.142.206.53,evansamanda,Failed login attempt for user evansamanda from 195.84.15.42
+2025-06-27 08:18:29,auth_failure,98.110.2.128,29.230.34.128,kelly65,Failed login attempt for user kelly65 from 98.110.2.128
+2025-06-27 14:07:35,auth_failure,214.165.87.184,107.31.31.79,sanchezsherri,Failed login attempt for user sanchezsherri from 214.165.87.184
+2025-06-27 20:12:39,system,110.177.159.228,163.234.162.240,alexandra56,System started: cultivate innovative applications
+2025-06-27 08:08:39,auth_success,134.49.1.234,49.16.219.18,alan63,Successful login for user alan63 from 134.49.1.234
+2025-06-27 13:38:18,auth_failure,35.222.19.172,155.83.74.198,ewilliams,Failed login attempt for user ewilliams from 35.222.19.172
+2025-06-28 06:58:53,system,199.7.66.244,79.36.68.116,rachelhardy,System started: brand global mindshare
+2025-06-27 23:48:38,malware_alert,169.190.68.86,49.61.220.239,christinewright,Malware detected: Spyware on host 49.61.220.239
+2025-06-28 00:32:27,system,4.56.205.66,129.77.29.91,nowens,System started: revolutionize frictionless paradigms
+2025-06-28 02:41:30,auth_failure,32.151.36.139,210.238.144.27,anthony78,Failed login attempt for user anthony78 from 32.151.36.139
+2025-06-27 08:12:10,malware_alert,110.8.76.159,119.52.38.44,nmartin,Malware detected: Trojan on host 119.52.38.44
+2025-06-27 10:06:24,auth_success,211.7.233.116,220.203.138.132,joshua90,Successful login for user joshua90 from 211.7.233.116
+2025-06-27 10:46:35,auth_failure,175.29.189.14,21.239.127.114,stevensandrew,Failed login attempt for user stevensandrew from 175.29.189.14
+2025-06-27 12:48:27,malware_alert,139.23.243.85,43.73.247.93,russellmarquez,Malware detected: Ransomware on host 43.73.247.93
+2025-06-27 08:31:50,system,196.203.128.118,177.163.112.185,hallashley,System started: iterate out-of-the-box portals
+2025-06-27 19:29:08,network,164.131.185.149,187.251.48.160,carlalexander,Connection from 164.131.185.149 to 187.251.48.160 on port 376
+2025-06-27 12:32:19,network,19.29.190.179,90.140.214.91,amberramsey,Connection from 19.29.190.179 to 90.140.214.91 on port 419
+2025-06-27 12:58:44,network,208.89.19.86,194.64.173.231,hstanley,Connection from 208.89.19.86 to 194.64.173.231 on port 188
+2025-06-27 08:03:32,auth_failure,193.215.78.107,161.152.73.186,jhuff,Failed login attempt for user jhuff from 193.215.78.107
+2025-06-27 08:47:56,network,189.17.191.21,199.176.60.1,jramirez,Connection from 189.17.191.21 to 199.176.60.1 on port 345
+2025-06-27 17:26:33,auth_success,15.140.72.74,196.193.8.182,whitakersean,Successful login for user whitakersean from 15.140.72.74
+2025-06-27 15:51:46,auth_success,201.162.40.114,34.46.16.158,sarapeters,Successful login for user sarapeters from 201.162.40.114
+2025-06-27 13:08:53,auth_failure,151.115.243.216,203.226.83.0,benjaminweber,Failed login attempt for user benjaminweber from 151.115.243.216
+2025-06-27 20:25:03,malware_alert,120.6.148.56,112.42.88.135,ericarichardson,Malware detected: Worm on host 112.42.88.135
+2025-06-27 21:15:47,malware_alert,24.153.248.121,137.238.140.211,murphyelizabeth,Malware detected: Trojan on host 137.238.140.211
+2025-06-27 13:05:39,malware_alert,166.2.216.8,140.127.115.16,ashleybradley,Malware detected: Trojan on host 140.127.115.16
+2025-06-27 21:23:12,network,163.73.16.208,139.201.106.51,fhall,Connection from 163.73.16.208 to 139.201.106.51 on port 29
+2025-06-27 08:06:25,auth_success,118.195.148.206,194.149.11.63,jennifer40,Successful login for user jennifer40 from 118.195.148.206
+2025-06-27 07:19:31,system,223.142.227.25,150.81.121.217,wademichael,System started: re-intermediate revolutionary platforms
+2025-06-27 11:15:54,malware_alert,182.27.132.230,134.87.228.35,jonesellen,Malware detected: Adware on host 134.87.228.35
+2025-06-27 12:34:05,network,167.236.188.212,125.159.17.65,jmcmahon,Connection from 167.236.188.212 to 125.159.17.65 on port 423
+2025-06-27 08:09:12,auth_failure,36.187.210.184,186.62.10.109,christophersaunders,Failed login attempt for user christophersaunders from 36.187.210.184
+2025-06-28 03:52:21,auth_success,214.44.29.56,221.111.164.226,mooretiffany,Successful login for user mooretiffany from 214.44.29.56
+2025-06-27 12:12:32,auth_success,221.241.24.198,223.199.63.178,ruizjennifer,Successful login for user ruizjennifer from 221.241.24.198
+2025-06-27 15:04:45,malware_alert,207.214.176.88,217.220.255.54,karenzavala,Malware detected: Spyware on host 217.220.255.54
+2025-06-27 09:51:01,network,137.67.67.39,219.142.73.169,scottariana,Connection from 137.67.67.39 to 219.142.73.169 on port 309
+2025-06-28 07:10:21,auth_success,217.39.98.34,208.34.198.45,edrake,Successful login for user edrake from 217.39.98.34
+2025-06-27 22:54:09,auth_failure,155.211.199.146,131.13.222.148,williamsrodney,Failed login attempt for user williamsrodney from 155.211.199.146
+2025-06-28 00:20:39,auth_failure,220.3.110.65,179.190.230.78,shelby27,Failed login attempt for user shelby27 from 220.3.110.65
+2025-06-27 21:33:59,network,208.155.69.233,175.192.57.169,patriciarobinson,Connection from 208.155.69.233 to 175.192.57.169 on port 223
+2025-06-28 04:21:29,system,208.146.184.105,31.162.78.54,edward10,System started: cultivate scalable markets
+2025-06-27 17:14:06,malware_alert,220.217.194.169,167.232.239.208,lauren18,Malware detected: Ransomware on host 167.232.239.208
+2025-06-28 02:56:12,system,84.96.159.143,205.154.231.196,annchoi,System started: mesh interactive communities
+2025-06-28 05:27:31,auth_failure,102.103.160.25,155.24.194.26,alyssa15,Failed login attempt for user alyssa15 from 102.103.160.25
+2025-06-27 17:14:59,system,139.237.62.205,112.127.26.65,sarah95,System started: incentivize vertical markets
+2025-06-27 18:53:55,auth_failure,84.246.110.163,37.216.17.85,jonathan01,Failed login attempt for user jonathan01 from 84.246.110.163
+2025-06-28 02:39:01,system,145.90.57.26,204.226.189.134,amywood,System started: redefine real-time relationships
+2025-06-27 21:28:43,system,82.165.27.192,128.116.19.67,tracyrobinson,System started: optimize cutting-edge convergence
+2025-06-27 21:30:12,auth_failure,200.165.165.140,46.239.70.102,mitchelljanice,Failed login attempt for user mitchelljanice from 200.165.165.140
+2025-06-27 23:57:50,malware_alert,150.222.24.130,121.157.67.207,cwagner,Malware detected: Spyware on host 121.157.67.207
+2025-06-27 13:03:59,network,98.129.71.223,176.201.157.243,pgoodwin,Connection from 98.129.71.223 to 176.201.157.243 on port 262
+2025-06-27 22:09:30,network,220.115.10.46,136.126.143.82,savannah68,Connection from 220.115.10.46 to 136.126.143.82 on port 165
+2025-06-28 01:31:29,system,182.15.124.171,88.27.110.57,isaacwilliams,System started: exploit enterprise experiences
+2025-06-27 19:46:01,network,4.212.115.173,204.95.31.238,eric57,Connection from 4.212.115.173 to 204.95.31.238 on port 412
+2025-06-28 00:24:01,malware_alert,146.129.96.196,138.240.145.188,qbyrd,Malware detected: Trojan on host 138.240.145.188
+2025-06-27 14:18:56,auth_success,150.141.19.245,137.69.183.129,mark31,Successful login for user mark31 from 150.141.19.245
+2025-06-28 04:26:31,auth_success,197.115.140.171,222.3.96.178,allenalvarez,Successful login for user allenalvarez from 197.115.140.171
+2025-06-27 21:01:49,system,77.64.126.173,199.101.81.22,nathan44,System started: iterate value-added supply-chains
+2025-06-28 03:16:04,auth_failure,213.69.193.212,155.191.172.99,donnaalvarez,Failed login attempt for user donnaalvarez from 213.69.193.212
+2025-06-27 22:08:18,auth_success,201.65.179.165,101.42.41.65,atucker,Successful login for user atucker from 201.65.179.165
+2025-06-27 14:46:12,auth_success,38.247.43.36,136.39.245.17,tandrews,Successful login for user tandrews from 38.247.43.36
+2025-06-27 12:00:08,system,209.2.191.2,213.80.203.246,steventhompson,System started: aggregate value-added mindshare
+2025-06-27 20:11:14,network,3.225.244.79,157.14.182.95,christina81,Connection from 3.225.244.79 to 157.14.182.95 on port 240
+2025-06-28 04:11:15,auth_failure,34.153.34.221,158.178.254.76,roger00,Failed login attempt for user roger00 from 34.153.34.221
+2025-06-27 09:57:50,system,197.79.58.169,129.122.46.54,terriosborne,System started: matrix dynamic eyeballs
+2025-06-28 03:01:49,malware_alert,181.208.133.234,161.177.171.157,patrick19,Malware detected: Worm on host 161.177.171.157
+2025-06-27 13:21:08,network,162.99.113.24,199.210.132.183,qdyer,Connection from 162.99.113.24 to 199.210.132.183 on port 104
+2025-06-27 15:30:04,system,151.125.219.25,154.85.195.36,adrian75,System started: architect e-business vortals
+2025-06-27 12:07:34,auth_failure,101.214.69.115,47.228.242.37,bflores,Failed login attempt for user bflores from 101.214.69.115
+2025-06-28 05:53:10,auth_success,36.198.117.68,105.94.169.98,ernestjohnston,Successful login for user ernestjohnston from 36.198.117.68
+2025-06-27 11:30:16,auth_failure,185.97.0.239,95.159.129.224,waltontodd,Failed login attempt for user waltontodd from 185.97.0.239
+2025-06-27 12:57:18,auth_success,217.216.52.39,182.82.23.10,courtneyhuff,Successful login for user courtneyhuff from 217.216.52.39
+2025-06-27 19:16:15,malware_alert,139.214.133.0,146.239.40.173,shannon62,Malware detected: Worm on host 146.239.40.173
+2025-06-27 20:53:08,malware_alert,216.115.48.126,189.254.131.164,ybrown,Malware detected: Ransomware on host 189.254.131.164
+2025-06-27 15:43:48,auth_failure,131.34.103.175,156.21.9.172,boltonmarie,Failed login attempt for user boltonmarie from 131.34.103.175
+2025-06-27 21:23:59,auth_failure,217.117.232.165,218.236.39.146,wmooney,Failed login attempt for user wmooney from 217.117.232.165
+2025-06-27 18:20:15,auth_failure,221.50.104.1,219.62.215.1,gomezrachel,Failed login attempt for user gomezrachel from 221.50.104.1
+2025-06-27 10:44:54,network,221.159.3.151,35.197.207.98,zachary83,Connection from 221.159.3.151 to 35.197.207.98 on port 22
+2025-06-28 04:26:06,malware_alert,205.189.89.53,220.244.231.255,dunnjose,Malware detected: Adware on host 220.244.231.255
+2025-06-27 11:04:47,network,137.143.92.51,207.64.133.113,timothy98,Connection from 137.143.92.51 to 207.64.133.113 on port 349
+2025-06-28 05:09:00,malware_alert,213.48.74.247,2.205.240.75,pstevenson,Malware detected: Trojan on host 2.205.240.75
+2025-06-27 16:54:01,malware_alert,163.3.181.165,202.76.81.41,kramerjames,Malware detected: Worm on host 202.76.81.41
+2025-06-27 20:52:31,system,22.172.220.94,167.199.39.76,christina14,System started: architect proactive markets
+2025-06-27 07:34:21,system,156.207.152.192,152.28.132.110,jeffrey85,System started: mesh sticky functionalities
+2025-06-28 00:41:33,auth_success,172.222.129.123,41.81.166.200,lbishop,Successful login for user lbishop from 172.222.129.123
+2025-06-27 23:40:13,auth_success,184.136.204.0,212.95.210.79,hernandezjonathan,Successful login for user hernandezjonathan from 184.136.204.0
+2025-06-27 16:26:04,auth_failure,196.225.4.127,206.216.242.6,vhansen,Failed login attempt for user vhansen from 196.225.4.127
+2025-06-27 12:58:53,malware_alert,62.20.206.2,29.36.71.72,gutierrezronald,Malware detected: Adware on host 29.36.71.72
+2025-06-27 10:01:41,malware_alert,204.215.191.101,26.200.163.11,ppatel,Malware detected: Worm on host 26.200.163.11
+2025-06-27 08:07:46,network,124.176.188.197,201.37.189.199,xkramer,Connection from 124.176.188.197 to 201.37.189.199 on port 229
+2025-06-28 05:20:12,network,16.15.52.179,167.89.108.99,amandawilliams,Connection from 16.15.52.179 to 167.89.108.99 on port 382
+2025-06-27 21:56:13,auth_success,159.154.150.215,196.155.229.215,brittanylowe,Successful login for user brittanylowe from 159.154.150.215
+2025-06-28 04:34:43,network,200.165.145.151,150.140.221.235,ronald31,Connection from 200.165.145.151 to 150.140.221.235 on port 107
+2025-06-27 23:14:44,malware_alert,167.196.183.171,198.150.207.230,bmccarty,Malware detected: Trojan on host 198.150.207.230
+2025-06-27 20:50:45,system,179.202.137.152,193.153.21.28,austinnathan,System started: redefine viral content
+2025-06-27 21:56:35,auth_success,192.173.92.67,149.157.114.192,watsonmatthew,Successful login for user watsonmatthew from 192.173.92.67
+2025-06-28 01:38:33,auth_failure,154.166.0.212,203.104.125.143,mpatterson,Failed login attempt for user mpatterson from 154.166.0.212
+2025-06-28 00:39:54,malware_alert,124.196.145.127,126.0.168.237,danstone,Malware detected: Trojan on host 126.0.168.237
+2025-06-27 16:58:24,malware_alert,203.79.138.120,129.95.252.111,nicholaswilson,Malware detected: Spyware on host 129.95.252.111
+2025-06-28 03:14:40,auth_failure,183.54.15.68,211.143.39.155,gonzalezdaniel,Failed login attempt for user gonzalezdaniel from 183.54.15.68
+2025-06-27 16:51:01,network,199.43.177.184,213.194.22.52,sharon98,Connection from 199.43.177.184 to 213.194.22.52 on port 296
+2025-06-27 20:27:19,network,108.178.168.190,205.200.103.235,joshua27,Connection from 108.178.168.190 to 205.200.103.235 on port 331
+2025-06-27 12:25:14,auth_failure,97.153.11.191,89.50.202.2,lgray,Failed login attempt for user lgray from 97.153.11.191
+2025-06-27 09:41:04,auth_failure,33.58.86.91,131.11.180.139,njohnson,Failed login attempt for user njohnson from 33.58.86.91
+2025-06-28 03:48:09,auth_failure,140.94.252.217,56.59.80.211,nwade,Failed login attempt for user nwade from 140.94.252.217
+2025-06-27 10:32:57,auth_success,178.100.160.138,221.172.84.50,christina00,Successful login for user christina00 from 178.100.160.138
+2025-06-27 15:33:07,system,62.29.111.165,156.165.47.145,kingblake,System started: enhance turn-key mindshare
+2025-06-27 12:19:37,auth_success,166.65.119.7,183.203.185.138,leslieweber,Successful login for user leslieweber from 166.65.119.7
+2025-06-27 12:14:17,system,78.5.21.76,179.101.251.2,mnelson,System started: exploit viral systems
+2025-06-28 04:32:40,malware_alert,133.255.16.139,204.254.160.204,martha21,Malware detected: Worm on host 204.254.160.204
+2025-06-27 07:26:51,system,221.220.123.46,174.136.96.88,jenningssandra,System started: whiteboard best-of-breed content
+2025-06-28 03:31:01,malware_alert,161.182.40.1,63.243.108.43,jasmine11,Malware detected: Spyware on host 63.243.108.43
+2025-06-27 11:05:17,auth_failure,23.242.254.159,76.162.100.168,nmarks,Failed login attempt for user nmarks from 23.242.254.159
+2025-06-27 19:50:05,auth_success,151.51.3.7,176.11.48.107,knewman,Successful login for user knewman from 151.51.3.7
+2025-06-27 07:22:41,network,212.51.149.219,219.202.189.167,michelleknapp,Connection from 212.51.149.219 to 219.202.189.167 on port 274
+2025-06-27 18:31:55,auth_success,159.250.197.160,197.167.102.210,uwilliams,Successful login for user uwilliams from 159.250.197.160
+2025-06-27 07:31:02,auth_failure,106.156.74.139,99.236.212.36,hawkinspatricia,Failed login attempt for user hawkinspatricia from 106.156.74.139
+2025-06-28 01:43:19,auth_success,195.58.182.125,205.205.84.7,alvarezholly,Successful login for user alvarezholly from 195.58.182.125
+2025-06-27 10:00:45,auth_success,116.223.212.187,150.118.194.23,elizabeth09,Successful login for user elizabeth09 from 116.223.212.187
+2025-06-27 22:33:57,network,4.96.76.232,80.111.28.141,jessica11,Connection from 4.96.76.232 to 80.111.28.141 on port 215
+2025-06-27 12:29:14,network,17.26.215.147,199.170.212.204,rjohnson,Connection from 17.26.215.147 to 199.170.212.204 on port 122
+2025-06-28 00:42:28,auth_success,203.231.118.237,160.106.58.80,michaelpoole,Successful login for user michaelpoole from 203.231.118.237
+2025-06-27 21:11:03,malware_alert,118.82.0.233,24.147.208.101,meganhernandez,Malware detected: Worm on host 24.147.208.101
+2025-06-27 11:32:24,auth_failure,48.126.93.29,75.96.31.245,jreilly,Failed login attempt for user jreilly from 48.126.93.29
+2025-06-28 01:24:16,auth_failure,26.129.230.38,178.126.238.198,qrobinson,Failed login attempt for user qrobinson from 26.129.230.38
+2025-06-28 07:04:54,auth_success,25.135.122.75,217.211.107.109,alicia44,Successful login for user alicia44 from 25.135.122.75
+2025-06-27 22:54:59,auth_success,132.237.101.241,139.62.236.217,joshuawatson,Successful login for user joshuawatson from 132.237.101.241
+2025-06-27 21:47:10,auth_success,222.28.88.213,207.71.241.94,kimberlywallace,Successful login for user kimberlywallace from 222.28.88.213
+2025-06-28 00:39:25,auth_success,141.226.9.243,211.94.255.45,johnsoncharles,Successful login for user johnsoncharles from 141.226.9.243
+2025-06-27 23:25:43,network,202.119.205.26,218.67.101.13,daviskenneth,Connection from 202.119.205.26 to 218.67.101.13 on port 144
+2025-06-27 13:59:49,auth_success,131.209.179.193,191.35.168.104,christine28,Successful login for user christine28 from 131.209.179.193
+2025-06-27 15:31:02,system,8.50.165.255,183.255.227.220,ericacampbell,System started: synergize cross-platform e-markets
+2025-06-27 21:20:36,auth_failure,152.143.241.110,138.30.140.11,benjaminmurray,Failed login attempt for user benjaminmurray from 152.143.241.110
+2025-06-28 00:00:12,malware_alert,218.137.220.124,185.132.77.56,hornealexandria,Malware detected: Adware on host 185.132.77.56
+2025-06-27 15:13:28,auth_failure,157.92.46.19,15.229.125.195,monica48,Failed login attempt for user monica48 from 157.92.46.19
+2025-06-27 18:31:17,auth_failure,78.34.250.188,181.187.101.223,linda34,Failed login attempt for user linda34 from 78.34.250.188
+2025-06-27 18:38:32,malware_alert,17.192.18.156,217.66.151.201,oadams,Malware detected: Trojan on host 217.66.151.201
+2025-06-27 10:32:11,auth_failure,72.122.45.35,4.1.160.191,briannaweber,Failed login attempt for user briannaweber from 72.122.45.35
+2025-06-27 21:32:44,network,168.88.69.207,34.102.230.146,tlarson,Connection from 168.88.69.207 to 34.102.230.146 on port 44
+2025-06-28 04:08:23,system,197.110.36.212,23.15.97.8,ericblack,System started: monetize customized technologies
+2025-06-27 10:35:39,auth_success,97.20.133.144,138.116.72.185,kathrynprice,Successful login for user kathrynprice from 97.20.133.144
+2025-06-27 19:05:22,network,98.116.161.20,189.214.247.49,ucole,Connection from 98.116.161.20 to 189.214.247.49 on port 112
+2025-06-27 20:26:57,system,4.104.71.178,177.155.89.205,dray,System started: deploy virtual web-readiness
+2025-06-27 08:46:54,system,43.66.211.208,24.186.127.69,tammy46,System started: transform enterprise e-markets
+2025-06-28 02:39:15,system,214.148.74.196,196.254.178.157,mistyramos,System started: matrix integrated vortals
+2025-06-27 11:25:55,malware_alert,180.188.57.189,217.9.249.75,hharvey,Malware detected: Adware on host 217.9.249.75
+2025-06-27 14:26:58,system,23.242.35.144,207.72.85.113,kayla57,System started: implement one-to-one eyeballs
+2025-06-27 14:23:20,system,49.178.70.102,23.168.250.123,michaelvega,System started: enhance web-enabled applications
+2025-06-28 05:48:54,auth_failure,8.199.151.24,219.238.243.71,ralphsimpson,Failed login attempt for user ralphsimpson from 8.199.151.24
+2025-06-28 02:44:23,network,185.170.135.65,93.156.255.209,uoliver,Connection from 185.170.135.65 to 93.156.255.209 on port 136
+2025-06-27 22:18:57,auth_failure,134.62.207.203,46.127.78.179,dferguson,Failed login attempt for user dferguson from 134.62.207.203
+2025-06-27 07:12:15,auth_failure,158.196.1.223,75.243.246.45,carolinepeterson,Failed login attempt for user carolinepeterson from 158.196.1.223
+2025-06-27 21:04:17,system,149.17.205.78,210.187.147.68,cynthia17,System started: redefine turn-key applications
+2025-06-27 16:59:47,system,161.129.182.224,208.130.91.245,amandarichardson,System started: matrix web-enabled web-readiness
+2025-06-27 19:49:37,auth_success,51.169.60.171,148.155.65.219,pbrown,Successful login for user pbrown from 51.169.60.171
+2025-06-27 23:43:02,network,186.144.219.58,165.57.78.238,millertracey,Connection from 186.144.219.58 to 165.57.78.238 on port 284
+2025-06-27 10:32:32,auth_success,162.39.56.237,217.171.179.250,nicole93,Successful login for user nicole93 from 162.39.56.237
+2025-06-27 10:57:31,auth_success,206.148.3.11,214.159.182.134,christinakeith,Successful login for user christinakeith from 206.148.3.11
+2025-06-27 12:21:25,malware_alert,216.114.136.95,197.128.141.28,erika46,Malware detected: Worm on host 197.128.141.28
+2025-06-27 20:59:11,network,170.199.134.69,192.55.177.208,leroysosa,Connection from 170.199.134.69 to 192.55.177.208 on port 357
+2025-06-27 18:49:29,network,62.240.107.96,190.63.58.163,pryan,Connection from 62.240.107.96 to 190.63.58.163 on port 280
+2025-06-28 01:24:31,system,192.17.94.201,192.71.155.208,jfields,System started: harness magnetic paradigms
+2025-06-27 11:01:59,auth_failure,110.108.52.0,215.88.243.89,gboyer,Failed login attempt for user gboyer from 110.108.52.0
+2025-06-28 01:43:22,auth_failure,12.103.12.201,211.29.200.147,allendarius,Failed login attempt for user allendarius from 12.103.12.201
+2025-06-27 13:41:46,auth_failure,44.73.252.22,85.132.142.156,arose,Failed login attempt for user arose from 44.73.252.22
+2025-06-27 19:33:47,network,101.45.27.23,188.108.34.162,dixonbrett,Connection from 101.45.27.23 to 188.108.34.162 on port 150
+2025-06-27 20:55:31,system,104.147.198.86,86.146.153.109,george63,System started: visualize interactive infrastructures
+2025-06-28 01:35:36,auth_success,119.247.150.198,199.232.85.148,kathrynespinoza,Successful login for user kathrynespinoza from 119.247.150.198
+2025-06-27 23:42:47,network,73.214.173.131,17.161.122.56,gordonjonathan,Connection from 73.214.173.131 to 17.161.122.56 on port 266
+2025-06-27 22:07:43,system,110.207.8.126,57.29.205.102,oconnoryolanda,System started: re-contextualize seamless e-markets
+2025-06-27 07:24:34,malware_alert,217.211.250.8,31.202.247.231,davidjohnson,Malware detected: Spyware on host 31.202.247.231
+2025-06-27 23:25:55,network,142.72.177.207,217.115.20.246,dphillips,Connection from 142.72.177.207 to 217.115.20.246 on port 143
+2025-06-27 16:24:36,auth_failure,221.99.129.24,64.72.243.161,michaelmartin,Failed login attempt for user michaelmartin from 221.99.129.24
+2025-06-27 12:19:27,network,91.217.53.119,182.209.228.43,kellyanderson,Connection from 91.217.53.119 to 182.209.228.43 on port 165
+2025-06-27 20:17:49,auth_failure,169.144.144.188,211.132.151.158,cummingsdavid,Failed login attempt for user cummingsdavid from 169.144.144.188
+2025-06-27 12:36:31,malware_alert,164.225.147.155,115.12.238.54,drakefrederick,Malware detected: Trojan on host 115.12.238.54
+2025-06-27 14:01:16,auth_success,217.77.238.42,205.115.10.234,gleach,Successful login for user gleach from 217.77.238.42
+2025-06-28 06:09:40,system,73.70.149.45,130.42.97.237,jeff44,System started: grow holistic e-services
+2025-06-27 12:50:17,auth_success,171.191.30.162,156.108.226.247,brookebarnes,Successful login for user brookebarnes from 171.191.30.162
+2025-06-27 19:22:02,malware_alert,135.207.244.179,215.193.133.115,masoncarlos,Malware detected: Worm on host 215.193.133.115
+2025-06-28 00:15:07,auth_failure,214.109.198.124,221.240.250.200,williamsjenny,Failed login attempt for user williamsjenny from 214.109.198.124
+2025-06-27 22:10:19,auth_failure,147.152.43.131,145.209.11.171,oriley,Failed login attempt for user oriley from 147.152.43.131
+2025-06-27 13:17:23,auth_failure,75.17.147.207,109.211.116.134,zhuff,Failed login attempt for user zhuff from 75.17.147.207
+2025-06-27 19:31:55,malware_alert,117.182.137.236,207.170.56.245,mhudson,Malware detected: Worm on host 207.170.56.245
+2025-06-27 19:08:05,network,213.143.243.242,153.230.200.23,donald91,Connection from 213.143.243.242 to 153.230.200.23 on port 297
+2025-06-28 04:50:07,malware_alert,155.205.43.152,214.140.148.154,latoya09,Malware detected: Spyware on host 214.140.148.154
+2025-06-27 12:43:49,malware_alert,204.199.133.123,187.151.106.19,uho,Malware detected: Spyware on host 187.151.106.19
+2025-06-28 03:58:14,network,203.225.240.95,104.32.216.168,garciawilliam,Connection from 203.225.240.95 to 104.32.216.168 on port 245
+2025-06-27 08:23:20,network,199.213.157.100,115.131.157.180,matthew55,Connection from 199.213.157.100 to 115.131.157.180 on port 329
+2025-06-27 18:45:26,malware_alert,105.88.99.119,145.140.171.47,nicole69,Malware detected: Worm on host 145.140.171.47
+2025-06-27 07:12:34,system,134.177.23.182,6.39.29.50,igarrett,System started: exploit front-end channels
+2025-06-27 12:04:32,network,143.75.160.62,135.119.204.102,rwalsh,Connection from 143.75.160.62 to 135.119.204.102 on port 365
+2025-06-28 05:23:57,network,1.110.198.10,96.217.228.226,tracy46,Connection from 1.110.198.10 to 96.217.228.226 on port 407
+2025-06-28 01:58:03,auth_failure,213.239.62.165,20.7.180.199,inelson,Failed login attempt for user inelson from 213.239.62.165
+2025-06-27 19:30:08,auth_failure,202.148.86.70,198.37.83.190,pperry,Failed login attempt for user pperry from 202.148.86.70
+2025-06-27 13:07:59,auth_success,145.86.110.168,141.231.1.118,carterpaul,Successful login for user carterpaul from 145.86.110.168
+2025-06-27 20:10:18,auth_failure,134.25.248.27,215.202.15.193,stephenperkins,Failed login attempt for user stephenperkins from 134.25.248.27
+2025-06-27 23:10:14,auth_success,128.124.128.232,199.227.122.241,donna94,Successful login for user donna94 from 128.124.128.232
+2025-06-27 09:38:31,network,201.80.237.200,32.243.88.94,frank77,Connection from 201.80.237.200 to 32.243.88.94 on port 406
+2025-06-27 11:18:57,network,7.200.88.204,91.245.52.68,joshuavargas,Connection from 7.200.88.204 to 91.245.52.68 on port 257
+2025-06-28 02:52:23,network,150.159.150.155,199.158.135.40,ukennedy,Connection from 150.159.150.155 to 199.158.135.40 on port 380
+2025-06-27 08:53:15,system,196.85.3.139,68.220.52.51,gwendolynalexander,System started: matrix plug-and-play experiences
+2025-06-27 14:44:21,system,2.182.138.243,29.40.121.69,garrett52,System started: incentivize compelling interfaces
+2025-06-28 04:30:26,malware_alert,74.50.186.216,137.191.86.148,kimberly14,Malware detected: Spyware on host 137.191.86.148
+2025-06-28 02:52:56,network,162.200.222.29,200.212.84.178,jkennedy,Connection from 162.200.222.29 to 200.212.84.178 on port 362
+2025-06-27 12:09:22,malware_alert,110.102.107.186,219.212.207.135,froberts,Malware detected: Spyware on host 219.212.207.135
+2025-06-27 18:25:39,auth_failure,185.66.114.117,129.39.142.188,johnsonrodney,Failed login attempt for user johnsonrodney from 185.66.114.117
+2025-06-28 02:44:59,system,173.52.183.255,30.254.245.163,jill64,System started: revolutionize bricks-and-clicks portals
+2025-06-28 05:12:45,auth_failure,147.241.117.92,195.191.104.106,jadewhite,Failed login attempt for user jadewhite from 147.241.117.92
+2025-06-27 14:36:59,auth_failure,134.60.129.110,216.9.238.94,joshua51,Failed login attempt for user joshua51 from 134.60.129.110
+2025-06-27 20:17:54,auth_success,68.48.87.213,202.23.7.77,carrie76,Successful login for user carrie76 from 68.48.87.213
+2025-06-27 08:02:12,network,76.122.196.79,43.131.243.3,rangelaaron,Connection from 76.122.196.79 to 43.131.243.3 on port 34
+2025-06-28 04:35:43,malware_alert,35.45.128.135,140.147.213.67,jennifer62,Malware detected: Ransomware on host 140.147.213.67
+2025-06-27 12:46:30,auth_failure,5.84.30.40,131.111.43.19,fcarroll,Failed login attempt for user fcarroll from 5.84.30.40
+2025-06-27 11:12:09,malware_alert,113.58.228.105,42.213.229.159,sherri29,Malware detected: Spyware on host 42.213.229.159
+2025-06-27 17:19:44,network,171.113.76.84,207.86.66.250,jamie69,Connection from 171.113.76.84 to 207.86.66.250 on port 216
+2025-06-28 01:38:36,auth_success,183.47.156.240,208.84.36.38,ufox,Successful login for user ufox from 183.47.156.240
+2025-06-28 04:40:49,auth_success,165.48.67.126,185.11.36.233,browncarlos,Successful login for user browncarlos from 165.48.67.126
+2025-06-27 08:47:35,network,164.94.246.13,210.205.180.193,davidjames,Connection from 164.94.246.13 to 210.205.180.193 on port 340
+2025-06-28 04:27:36,malware_alert,133.103.185.65,204.66.226.151,doyleelizabeth,Malware detected: Spyware on host 204.66.226.151
+2025-06-27 09:29:43,malware_alert,117.158.199.172,78.167.221.59,fchan,Malware detected: Spyware on host 78.167.221.59
+2025-06-27 23:01:03,auth_success,222.208.51.8,122.255.40.177,donaldtorres,Successful login for user donaldtorres from 222.208.51.8
+2025-06-27 08:04:30,system,200.60.110.35,157.6.239.187,kristenwilkins,System started: integrate clicks-and-mortar mindshare
+2025-06-28 05:17:48,network,55.106.193.177,18.218.207.158,robinsonjanet,Connection from 55.106.193.177 to 18.218.207.158 on port 35
+2025-06-27 11:31:12,auth_failure,115.78.106.83,115.47.92.211,jenniferruiz,Failed login attempt for user jenniferruiz from 115.78.106.83
+2025-06-27 08:20:53,auth_success,138.21.51.144,193.141.67.245,jaclyn65,Successful login for user jaclyn65 from 138.21.51.144
+2025-06-27 21:10:57,system,2.249.73.61,212.96.155.213,wproctor,System started: redefine best-of-breed communities
+2025-06-27 17:48:31,auth_success,109.114.106.220,204.71.44.81,jacob72,Successful login for user jacob72 from 109.114.106.220
+2025-06-28 06:23:20,network,199.84.209.153,193.189.45.142,ocantu,Connection from 199.84.209.153 to 193.189.45.142 on port 297
+2025-06-27 09:21:39,auth_success,213.202.207.95,212.155.22.255,georgerichard,Successful login for user georgerichard from 213.202.207.95
+2025-06-28 03:17:49,system,22.122.137.97,205.176.33.121,zsmith,System started: mesh 24/7 portals
+2025-06-28 01:13:47,system,148.37.139.74,167.194.8.187,morgantaylor,System started: scale synergistic bandwidth
+2025-06-27 19:15:47,network,178.173.192.24,32.15.66.160,hahnkendra,Connection from 178.173.192.24 to 32.15.66.160 on port 70
+2025-06-28 05:31:33,malware_alert,79.0.3.102,166.70.29.67,jerrypetersen,Malware detected: Spyware on host 166.70.29.67
+2025-06-27 09:39:15,auth_success,129.25.176.49,140.156.119.61,kyleblack,Successful login for user kyleblack from 129.25.176.49
+2025-06-27 10:59:03,malware_alert,125.146.113.204,131.247.120.160,pachecotroy,Malware detected: Trojan on host 131.247.120.160
+2025-06-28 04:32:01,network,89.29.132.122,158.127.208.145,deanna54,Connection from 89.29.132.122 to 158.127.208.145 on port 37
+2025-06-28 02:07:54,network,104.137.255.193,158.55.144.223,wendy23,Connection from 104.137.255.193 to 158.55.144.223 on port 69
+2025-06-28 03:29:57,network,196.168.240.49,190.182.51.168,javiercardenas,Connection from 196.168.240.49 to 190.182.51.168 on port 375
+2025-06-27 15:34:13,auth_failure,215.26.240.233,92.193.22.134,areed,Failed login attempt for user areed from 215.26.240.233
+2025-06-28 05:21:21,auth_failure,79.201.140.56,6.15.115.103,robynjohnson,Failed login attempt for user robynjohnson from 79.201.140.56
+2025-06-27 12:56:31,auth_success,173.54.40.132,201.128.161.88,marcus56,Successful login for user marcus56 from 173.54.40.132
+2025-06-28 03:06:59,network,163.23.28.184,197.244.241.117,brandonramirez,Connection from 163.23.28.184 to 197.244.241.117 on port 258
+2025-06-27 18:36:48,network,174.160.36.86,203.31.43.52,rhonda30,Connection from 174.160.36.86 to 203.31.43.52 on port 307
+2025-06-27 07:12:26,system,6.47.178.121,7.63.40.200,chloe40,System started: drive cross-media platforms
+2025-06-27 18:25:04,auth_success,218.255.110.110,202.167.112.158,jenniferbrennan,Successful login for user jenniferbrennan from 218.255.110.110
+2025-06-27 10:16:11,malware_alert,74.162.166.84,182.172.124.82,maurice65,Malware detected: Trojan on host 182.172.124.82
+2025-06-27 17:50:13,system,218.65.38.17,188.242.52.186,lori81,System started: empower strategic supply-chains
+2025-06-27 17:12:51,network,168.75.158.7,210.170.59.194,jason14,Connection from 168.75.158.7 to 210.170.59.194 on port 303
+2025-06-27 19:48:03,auth_failure,186.231.243.154,199.78.163.164,timothy93,Failed login attempt for user timothy93 from 186.231.243.154
+2025-06-27 22:17:11,malware_alert,184.118.168.164,86.27.81.92,michelle08,Malware detected: Adware on host 86.27.81.92
+2025-06-27 22:05:18,system,220.105.144.45,123.223.246.174,nancy60,System started: architect bleeding-edge e-commerce
+2025-06-28 04:48:07,auth_failure,210.248.55.103,218.207.39.224,rubenrodriguez,Failed login attempt for user rubenrodriguez from 210.248.55.103
+2025-06-27 13:31:51,auth_success,76.92.205.96,14.242.78.48,foxdiane,Successful login for user foxdiane from 76.92.205.96
+2025-06-28 06:04:02,auth_failure,214.65.221.164,210.134.218.76,rachelleach,Failed login attempt for user rachelleach from 214.65.221.164
+2025-06-27 08:19:55,system,195.235.16.200,86.33.232.252,matthewskevin,System started: reinvent best-of-breed web-readiness
+2025-06-28 06:26:07,auth_success,201.223.26.69,202.176.216.157,richardtaylor,Successful login for user richardtaylor from 201.223.26.69
+2025-06-27 18:35:27,auth_success,162.144.28.179,159.237.104.141,thomas96,Successful login for user thomas96 from 162.144.28.179
+2025-06-28 06:59:01,auth_success,128.58.85.61,209.75.220.162,burkejessica,Successful login for user burkejessica from 128.58.85.61
+2025-06-27 16:14:59,malware_alert,167.186.64.211,167.201.9.196,harrisdonna,Malware detected: Worm on host 167.201.9.196
+2025-06-27 16:38:29,malware_alert,144.160.212.255,186.219.6.20,markmartinez,Malware detected: Trojan on host 186.219.6.20
+2025-06-27 21:20:23,auth_failure,150.119.160.168,173.160.157.51,marywagner,Failed login attempt for user marywagner from 150.119.160.168
+2025-06-28 04:23:47,network,138.98.238.206,214.52.87.95,odavis,Connection from 138.98.238.206 to 214.52.87.95 on port 180
+2025-06-28 02:35:21,auth_failure,162.177.98.86,190.141.12.100,toddanderson,Failed login attempt for user toddanderson from 162.177.98.86
+2025-06-27 11:39:53,auth_failure,187.131.48.191,204.67.210.79,frankbush,Failed login attempt for user frankbush from 187.131.48.191
+2025-06-27 13:21:48,malware_alert,153.105.174.38,204.73.103.90,douglas42,Malware detected: Trojan on host 204.73.103.90
+2025-06-27 15:36:06,auth_failure,222.197.66.151,54.123.73.18,amandalynch,Failed login attempt for user amandalynch from 222.197.66.151
+2025-06-27 08:18:18,network,156.115.125.151,220.1.92.186,martin95,Connection from 156.115.125.151 to 220.1.92.186 on port 177
+2025-06-27 10:46:27,network,136.14.46.33,139.75.65.178,joycebush,Connection from 136.14.46.33 to 139.75.65.178 on port 244
+2025-06-27 07:44:38,auth_success,193.178.68.225,21.213.214.107,jwalker,Successful login for user jwalker from 193.178.68.225
+2025-06-27 22:15:38,system,139.130.250.26,9.17.4.253,vincent07,System started: empower cutting-edge paradigms
+2025-06-27 16:10:00,auth_failure,209.90.213.209,193.242.2.10,vriley,Failed login attempt for user vriley from 209.90.213.209
+2025-06-27 16:58:06,auth_failure,201.177.68.81,209.56.31.122,millerjacob,Failed login attempt for user millerjacob from 201.177.68.81
+2025-06-28 00:19:45,system,186.30.23.234,205.102.41.17,gperez,System started: evolve vertical relationships
+2025-06-28 02:16:39,auth_success,89.189.51.54,151.81.141.93,torrespatrick,Successful login for user torrespatrick from 89.189.51.54
+2025-06-27 16:15:52,network,202.249.140.144,138.219.221.200,paigewoodard,Connection from 202.249.140.144 to 138.219.221.200 on port 429
+2025-06-27 18:08:38,network,198.116.6.250,218.116.62.171,fthomas,Connection from 198.116.6.250 to 218.116.62.171 on port 302
+2025-06-27 16:18:27,malware_alert,202.196.42.225,92.27.195.82,kevinkeller,Malware detected: Trojan on host 92.27.195.82
+2025-06-27 13:47:23,network,25.91.61.229,194.63.38.42,zacharycox,Connection from 25.91.61.229 to 194.63.38.42 on port 381
+2025-06-27 12:54:04,network,164.123.225.110,8.60.188.222,mckaymorgan,Connection from 164.123.225.110 to 8.60.188.222 on port 85
+2025-06-28 04:21:34,network,171.19.0.48,97.247.197.117,kimmatthew,Connection from 171.19.0.48 to 97.247.197.117 on port 288
+2025-06-27 18:05:28,system,220.79.82.63,176.43.74.23,hgreen,System started: seize intuitive models
+2025-06-27 14:27:53,system,171.148.95.221,128.9.166.139,robertmay,System started: redefine wireless convergence
+2025-06-27 13:18:02,auth_failure,74.39.52.95,157.67.141.233,tamara75,Failed login attempt for user tamara75 from 74.39.52.95
+2025-06-27 21:18:50,network,187.160.80.102,125.212.204.246,madams,Connection from 187.160.80.102 to 125.212.204.246 on port 293
+2025-06-28 02:20:48,auth_failure,101.59.34.162,9.136.76.235,george69,Failed login attempt for user george69 from 101.59.34.162
+2025-06-27 11:48:23,system,181.178.74.101,197.47.4.9,lisaguerrero,System started: seize turn-key architectures
+2025-06-27 07:36:54,system,207.90.115.36,194.115.177.78,cwalls,System started: scale best-of-breed models
+2025-06-27 16:02:21,auth_failure,197.89.98.227,215.253.204.78,vmolina,Failed login attempt for user vmolina from 197.89.98.227
+2025-06-27 17:13:55,auth_failure,174.112.57.83,81.93.242.38,david09,Failed login attempt for user david09 from 174.112.57.83
+2025-06-27 21:37:10,auth_success,207.0.202.97,101.20.161.6,taylor46,Successful login for user taylor46 from 207.0.202.97
+2025-06-27 12:55:59,malware_alert,210.17.21.3,147.121.213.153,andrewcarter,Malware detected: Worm on host 147.121.213.153
+2025-06-27 14:49:58,system,172.125.193.47,187.51.178.0,michaeljohnston,System started: orchestrate best-of-breed content
+2025-06-28 01:48:20,system,122.2.199.111,94.142.10.148,dukesara,System started: reinvent next-generation functionalities
+2025-06-27 16:15:22,auth_failure,109.155.187.77,52.102.119.252,corey31,Failed login attempt for user corey31 from 109.155.187.77
+2025-06-28 05:01:46,malware_alert,220.102.193.52,205.247.132.183,melissagarcia,Malware detected: Ransomware on host 205.247.132.183
+2025-06-27 07:40:55,malware_alert,214.15.4.80,195.166.3.64,samuelschultz,Malware detected: Worm on host 195.166.3.64
+2025-06-27 19:58:39,auth_success,133.116.242.110,122.53.193.1,billy09,Successful login for user billy09 from 133.116.242.110
+2025-06-27 18:01:01,malware_alert,64.28.82.237,89.79.75.116,ghorton,Malware detected: Ransomware on host 89.79.75.116
+2025-06-27 12:03:20,system,52.52.174.98,43.124.63.64,janetwarren,System started: expedite e-business e-commerce
+2025-06-27 14:27:29,malware_alert,206.173.61.141,190.52.145.64,knightdenise,Malware detected: Spyware on host 190.52.145.64
+2025-06-27 19:32:49,auth_failure,165.131.159.165,177.216.47.21,watsontheresa,Failed login attempt for user watsontheresa from 165.131.159.165
+2025-06-27 23:13:27,network,102.35.150.190,183.142.61.247,logandillon,Connection from 102.35.150.190 to 183.142.61.247 on port 439
+2025-06-27 17:57:51,auth_success,84.143.39.189,153.217.220.207,opeterson,Successful login for user opeterson from 84.143.39.189
+2025-06-28 06:24:52,malware_alert,30.88.241.83,40.189.9.131,cpeterson,Malware detected: Spyware on host 40.189.9.131
+2025-06-27 21:36:13,malware_alert,187.104.105.192,163.212.150.89,beverly09,Malware detected: Spyware on host 163.212.150.89
+2025-06-28 01:27:01,auth_success,18.111.110.166,18.223.107.17,robertalexander,Successful login for user robertalexander from 18.111.110.166
+2025-06-27 15:45:20,network,211.114.153.110,124.59.251.171,snowheather,Connection from 211.114.153.110 to 124.59.251.171 on port 130
+2025-06-27 16:50:41,malware_alert,223.81.205.236,73.102.170.239,harrisanita,Malware detected: Worm on host 73.102.170.239
+2025-06-28 01:44:48,network,210.38.157.81,32.75.97.243,richardlittle,Connection from 210.38.157.81 to 32.75.97.243 on port 284
+2025-06-28 02:33:02,malware_alert,202.244.123.90,207.177.251.213,bnelson,Malware detected: Spyware on host 207.177.251.213
+2025-06-27 19:37:56,auth_success,181.150.239.173,161.47.221.49,stevennguyen,Successful login for user stevennguyen from 181.150.239.173
+2025-06-27 18:10:25,auth_failure,166.94.138.220,118.196.134.42,gregory68,Failed login attempt for user gregory68 from 166.94.138.220
+2025-06-27 09:05:23,network,168.61.163.87,161.103.255.25,sara08,Connection from 168.61.163.87 to 161.103.255.25 on port 254
+2025-06-27 09:41:41,system,152.247.242.184,223.223.139.97,lindsey78,System started: deliver interactive web-readiness
+2025-06-28 04:56:01,system,143.219.180.248,175.3.169.176,skim,System started: enable proactive action-items
+2025-06-27 07:13:44,network,45.22.27.58,198.254.184.115,qbrown,Connection from 45.22.27.58 to 198.254.184.115 on port 336
+2025-06-27 13:30:39,auth_success,209.107.124.44,38.112.140.223,barbararyan,Successful login for user barbararyan from 209.107.124.44
+2025-06-27 16:56:11,system,116.222.47.132,45.178.95.5,terri97,System started: envisioneer efficient eyeballs
+2025-06-27 07:56:33,malware_alert,221.86.205.171,66.140.125.184,mindylawrence,Malware detected: Worm on host 66.140.125.184
+2025-06-27 18:29:32,network,107.128.211.11,210.103.190.221,nadams,Connection from 107.128.211.11 to 210.103.190.221 on port 441
+2025-06-28 01:23:17,auth_success,103.173.219.149,189.176.80.172,joshua45,Successful login for user joshua45 from 103.173.219.149
+2025-06-27 10:23:16,malware_alert,208.27.32.213,188.4.187.195,nicole77,Malware detected: Spyware on host 188.4.187.195
+2025-06-27 11:23:24,system,212.254.65.95,79.174.251.113,mcknightdonald,System started: redefine 24/365 content
+2025-06-27 07:42:37,malware_alert,144.134.57.92,106.79.246.73,carollevy,Malware detected: Adware on host 106.79.246.73
+2025-06-27 17:06:49,auth_success,163.53.101.69,159.220.234.69,james66,Successful login for user james66 from 163.53.101.69
+2025-06-27 21:10:12,network,1.31.79.72,141.66.152.33,theresa27,Connection from 1.31.79.72 to 141.66.152.33 on port 114
+2025-06-27 13:42:04,auth_failure,198.245.151.184,209.37.68.68,edwardwalker,Failed login attempt for user edwardwalker from 198.245.151.184
+2025-06-28 05:27:48,malware_alert,17.118.148.144,32.42.33.122,elizabeth50,Malware detected: Adware on host 32.42.33.122
+2025-06-27 22:02:03,malware_alert,120.144.193.181,217.228.187.72,anthony72,Malware detected: Worm on host 217.228.187.72
+2025-06-27 07:17:27,system,3.96.7.196,198.1.183.107,randalldeborah,System started: harness enterprise paradigms
+2025-06-28 05:11:57,system,4.32.77.76,47.112.42.71,jshelton,System started: engage web-enabled markets
+2025-06-28 01:29:05,system,114.1.165.93,7.159.92.194,patriciadavis,System started: repurpose turn-key methodologies
+2025-06-27 18:29:19,auth_success,222.49.137.167,210.36.157.23,jessica76,Successful login for user jessica76 from 222.49.137.167
+2025-06-27 14:04:28,system,217.93.235.154,214.202.59.61,jerrysmith,System started: e-enable impactful vortals
+2025-06-27 12:13:17,auth_success,126.187.114.41,177.150.68.9,anne43,Successful login for user anne43 from 126.187.114.41
+2025-06-28 00:53:14,auth_failure,6.6.235.157,179.96.138.127,hsheppard,Failed login attempt for user hsheppard from 6.6.235.157
+2025-06-27 19:13:37,auth_success,24.124.213.179,156.178.1.165,aortiz,Successful login for user aortiz from 24.124.213.179
+2025-06-27 23:53:24,network,170.104.208.226,7.90.20.138,stewartricardo,Connection from 170.104.208.226 to 7.90.20.138 on port 282
+2025-06-27 16:37:07,malware_alert,197.51.120.54,52.181.2.5,johnsonjohn,Malware detected: Spyware on host 52.181.2.5
+2025-06-28 05:19:39,auth_failure,66.178.104.250,43.227.3.254,andrea46,Failed login attempt for user andrea46 from 66.178.104.250
+2025-06-27 12:58:53,malware_alert,63.146.40.114,221.159.10.161,howardgregory,Malware detected: Spyware on host 221.159.10.161
+2025-06-27 11:47:34,system,128.12.60.254,139.77.174.31,klawson,System started: iterate holistic solutions
+2025-06-27 11:14:53,network,103.115.54.85,217.113.158.130,spotts,Connection from 103.115.54.85 to 217.113.158.130 on port 170
+2025-06-27 10:49:55,auth_failure,177.128.159.58,56.238.165.232,pcooley,Failed login attempt for user pcooley from 177.128.159.58
+2025-06-27 17:14:39,system,208.177.85.107,201.252.163.108,michaelrivera,System started: benchmark leading-edge paradigms
+2025-06-28 01:43:32,malware_alert,118.140.35.130,185.10.141.61,wintersmichelle,Malware detected: Trojan on host 185.10.141.61
+2025-06-27 07:29:05,system,19.97.214.185,52.185.58.9,frankconner,System started: revolutionize 24/7 convergence
+2025-06-27 07:43:50,network,71.246.200.95,15.17.140.134,uhughes,Connection from 71.246.200.95 to 15.17.140.134 on port 228
+2025-06-27 21:12:37,auth_failure,169.204.91.140,143.78.50.22,paullawrence,Failed login attempt for user paullawrence from 169.204.91.140
+2025-06-27 18:35:50,network,152.244.81.25,195.97.72.239,lepaula,Connection from 152.244.81.25 to 195.97.72.239 on port 379
+2025-06-27 21:27:52,malware_alert,155.152.118.44,194.94.50.157,simstimothy,Malware detected: Worm on host 194.94.50.157
+2025-06-27 08:57:51,network,193.124.217.18,25.95.135.199,knightryan,Connection from 193.124.217.18 to 25.95.135.199 on port 34
+2025-06-27 08:54:29,malware_alert,161.180.10.246,202.192.249.87,amandabrooks,Malware detected: Spyware on host 202.192.249.87
+2025-06-27 12:00:52,malware_alert,93.67.152.108,39.202.184.153,aprilrodriguez,Malware detected: Ransomware on host 39.202.184.153
+2025-06-27 21:59:53,auth_failure,84.4.88.183,208.34.53.148,ryan03,Failed login attempt for user ryan03 from 84.4.88.183
+2025-06-27 09:11:06,auth_failure,223.222.144.71,2.235.112.162,sconner,Failed login attempt for user sconner from 223.222.144.71
+2025-06-27 12:29:05,malware_alert,220.147.187.170,22.222.144.163,flopez,Malware detected: Worm on host 22.222.144.163
+2025-06-28 06:38:49,network,89.217.187.14,199.106.89.9,alexis58,Connection from 89.217.187.14 to 199.106.89.9 on port 106
+2025-06-27 10:26:29,malware_alert,33.224.80.96,162.52.132.139,taylorcharles,Malware detected: Spyware on host 162.52.132.139
+2025-06-27 17:40:10,auth_success,138.141.182.80,202.137.19.22,bondgrace,Successful login for user bondgrace from 138.141.182.80
+2025-06-27 14:53:46,auth_failure,186.12.52.1,204.235.52.94,jamessullivan,Failed login attempt for user jamessullivan from 186.12.52.1
+2025-06-28 06:21:35,system,36.237.230.92,217.93.71.155,droberts,System started: generate leading-edge interfaces
+2025-06-27 09:44:43,system,129.170.142.76,135.58.2.28,mitchellandrew,System started: synergize B2B models
+2025-06-27 12:48:58,network,18.232.184.46,221.17.123.155,johnli,Connection from 18.232.184.46 to 221.17.123.155 on port 88
+2025-06-27 11:21:36,auth_success,77.241.177.9,194.214.218.146,igates,Successful login for user igates from 77.241.177.9
+2025-06-27 18:57:45,network,187.38.250.123,200.10.185.225,lprice,Connection from 187.38.250.123 to 200.10.185.225 on port 316
+2025-06-27 09:28:08,system,148.239.44.38,77.100.247.25,isanders,System started: extend holistic niches
+2025-06-27 14:43:52,auth_success,196.45.179.50,163.5.156.73,perrygregory,Successful login for user perrygregory from 196.45.179.50
+2025-06-27 19:16:18,auth_failure,218.40.140.105,186.33.151.231,jamesmatthews,Failed login attempt for user jamesmatthews from 218.40.140.105
+2025-06-28 02:41:42,malware_alert,143.218.127.142,194.8.49.105,brianacox,Malware detected: Trojan on host 194.8.49.105
+2025-06-27 10:08:06,auth_success,221.23.66.221,196.187.79.122,christopher55,Successful login for user christopher55 from 221.23.66.221
+2025-06-27 21:09:38,auth_failure,17.63.65.6,179.3.180.63,michele90,Failed login attempt for user michele90 from 17.63.65.6
+2025-06-28 00:40:06,malware_alert,9.26.153.20,116.106.85.36,megan81,Malware detected: Spyware on host 116.106.85.36
+2025-06-28 02:04:27,system,211.213.148.186,35.148.178.240,annarogers,System started: cultivate mission-critical partnerships
+2025-06-27 12:25:25,auth_failure,43.51.74.176,158.91.157.190,john80,Failed login attempt for user john80 from 43.51.74.176
+2025-06-27 18:36:03,network,140.129.162.212,144.88.127.161,larsondustin,Connection from 140.129.162.212 to 144.88.127.161 on port 93
+2025-06-27 12:52:00,system,108.204.80.46,73.182.38.163,shieldsdaniel,System started: facilitate strategic e-services
+2025-06-28 06:39:27,malware_alert,200.164.32.103,104.109.224.37,parkerebony,Malware detected: Trojan on host 104.109.224.37
+2025-06-27 09:40:14,malware_alert,170.138.215.126,200.116.19.232,tcole,Malware detected: Ransomware on host 200.116.19.232
+2025-06-28 03:46:20,auth_success,222.53.125.82,192.166.210.0,cowandaniel,Successful login for user cowandaniel from 222.53.125.82
+2025-06-28 00:33:23,auth_failure,153.0.165.69,221.14.208.77,devinholmes,Failed login attempt for user devinholmes from 153.0.165.69
+2025-06-27 18:48:42,malware_alert,76.124.178.66,146.250.71.47,gvasquez,Malware detected: Spyware on host 146.250.71.47
+2025-06-28 01:50:49,auth_success,216.224.13.13,159.251.31.101,campbellronald,Successful login for user campbellronald from 216.224.13.13
+2025-06-28 01:28:28,system,37.9.161.229,107.152.224.183,zavalasarah,System started: benchmark magnetic infrastructures
+2025-06-27 20:30:57,auth_success,188.53.34.125,202.62.176.249,rmiller,Successful login for user rmiller from 188.53.34.125
+2025-06-27 07:26:30,network,102.241.176.54,107.20.247.233,eddiecrawford,Connection from 102.241.176.54 to 107.20.247.233 on port 59
+2025-06-28 00:29:44,system,170.156.202.179,128.255.88.44,josechen,System started: whiteboard visionary mindshare
+2025-06-27 23:02:10,malware_alert,215.169.113.55,177.213.10.238,daniel49,Malware detected: Worm on host 177.213.10.238
+2025-06-28 03:03:39,system,223.245.103.35,139.212.167.173,johnsondavid,System started: benchmark world-class initiatives
+2025-06-28 01:40:46,system,218.152.182.79,179.155.181.132,matthewgarrett,System started: matrix B2B paradigms
+2025-06-28 03:56:25,auth_success,140.207.169.159,7.129.15.53,stoneamanda,Successful login for user stoneamanda from 140.207.169.159
+2025-06-27 20:30:27,network,32.215.91.183,90.25.175.106,andersonkaren,Connection from 32.215.91.183 to 90.25.175.106 on port 157
+2025-06-28 00:53:13,auth_failure,186.54.20.120,195.192.252.123,edavis,Failed login attempt for user edavis from 186.54.20.120
+2025-06-27 07:14:17,network,178.138.176.59,96.172.231.95,tneal,Connection from 178.138.176.59 to 96.172.231.95 on port 400
+2025-06-27 19:43:29,network,159.143.98.40,106.34.81.55,kelly02,Connection from 159.143.98.40 to 106.34.81.55 on port 409
+2025-06-28 00:40:32,malware_alert,24.202.2.72,144.27.176.230,mrobbins,Malware detected: Worm on host 144.27.176.230
+2025-06-27 21:13:05,auth_success,148.176.162.14,81.81.17.167,katherinewalker,Successful login for user katherinewalker from 148.176.162.14
+2025-06-28 00:48:05,network,195.158.216.112,192.122.226.179,qalexander,Connection from 195.158.216.112 to 192.122.226.179 on port 382
+2025-06-27 23:43:44,malware_alert,128.131.62.240,107.174.5.147,henrybennett,Malware detected: Adware on host 107.174.5.147
+2025-06-27 13:30:15,malware_alert,112.164.211.89,66.19.183.172,joshuaadams,Malware detected: Spyware on host 66.19.183.172
+2025-06-27 18:40:07,malware_alert,198.178.204.89,83.58.21.204,amandabarnett,Malware detected: Ransomware on host 83.58.21.204
+2025-06-27 22:50:39,malware_alert,210.3.223.128,210.76.5.162,jwashington,Malware detected: Worm on host 210.76.5.162
+2025-06-28 01:50:48,auth_failure,202.224.70.37,205.230.215.249,stephensamy,Failed login attempt for user stephensamy from 202.224.70.37
+2025-06-27 15:49:40,auth_success,200.39.106.192,118.140.81.62,uclark,Successful login for user uclark from 200.39.106.192
+2025-06-27 17:56:21,network,115.80.182.46,178.229.195.236,ramirezchristine,Connection from 115.80.182.46 to 178.229.195.236 on port 150
+2025-06-27 15:59:39,malware_alert,44.51.59.172,198.87.54.216,sdunn,Malware detected: Adware on host 198.87.54.216
+2025-06-27 20:44:14,auth_failure,180.150.149.85,169.186.101.99,zgarcia,Failed login attempt for user zgarcia from 180.150.149.85
+2025-06-28 05:00:41,auth_success,142.172.198.107,100.172.51.124,kathy80,Successful login for user kathy80 from 142.172.198.107
+2025-06-28 06:14:33,network,154.113.20.92,87.208.59.17,tracysingh,Connection from 154.113.20.92 to 87.208.59.17 on port 144
+2025-06-27 12:25:51,auth_success,38.73.109.81,191.2.24.8,martinalicia,Successful login for user martinalicia from 38.73.109.81
+2025-06-27 13:29:19,malware_alert,159.242.149.205,112.252.39.50,mmartin,Malware detected: Adware on host 112.252.39.50
+2025-06-27 11:22:06,auth_failure,172.40.96.71,179.119.136.7,monicahines,Failed login attempt for user monicahines from 172.40.96.71
+2025-06-27 14:38:52,network,179.226.182.237,59.41.138.152,wlee,Connection from 179.226.182.237 to 59.41.138.152 on port 203
+2025-06-28 05:13:36,network,6.23.27.137,202.161.68.239,mortonsarah,Connection from 6.23.27.137 to 202.161.68.239 on port 296
+2025-06-28 01:16:34,network,35.111.22.26,132.180.27.57,ekane,Connection from 35.111.22.26 to 132.180.27.57 on port 219
+2025-06-27 17:08:46,malware_alert,177.111.248.44,204.235.50.209,calebperry,Malware detected: Worm on host 204.235.50.209
+2025-06-27 20:04:39,auth_failure,204.79.83.2,152.249.86.34,henrykevin,Failed login attempt for user henrykevin from 204.79.83.2
+2025-06-27 07:56:45,system,184.7.94.245,107.248.214.146,dianecordova,System started: enhance mission-critical methodologies
+2025-06-27 14:21:48,malware_alert,46.251.219.187,161.223.95.114,hicksgeorge,Malware detected: Worm on host 161.223.95.114
+2025-06-28 03:28:42,auth_failure,115.38.9.53,175.233.34.15,jesseturner,Failed login attempt for user jesseturner from 115.38.9.53
+2025-06-27 16:19:26,malware_alert,195.178.223.22,164.82.219.91,qsanders,Malware detected: Ransomware on host 164.82.219.91
+2025-06-28 00:54:05,auth_failure,210.111.66.209,204.198.69.49,vjones,Failed login attempt for user vjones from 210.111.66.209
+2025-06-27 21:13:17,system,154.116.108.96,220.196.227.223,kylehunt,System started: benchmark leading-edge deliverables
+2025-06-27 09:19:43,auth_success,191.61.213.10,17.82.246.223,keithbridges,Successful login for user keithbridges from 191.61.213.10
+2025-06-27 16:52:48,malware_alert,3.207.237.240,216.209.121.43,morrisgabriel,Malware detected: Adware on host 216.209.121.43
+2025-06-27 23:08:32,auth_success,149.101.153.2,87.125.56.58,nicole05,Successful login for user nicole05 from 149.101.153.2
+2025-06-27 22:17:44,auth_failure,219.52.244.154,198.42.242.45,stevengalloway,Failed login attempt for user stevengalloway from 219.52.244.154
+2025-06-27 15:12:53,system,195.202.92.194,30.72.66.36,tolson,System started: iterate holistic e-tailers
+2025-06-28 06:03:39,system,159.43.106.197,146.208.156.2,jason32,System started: drive transparent paradigms
+2025-06-27 07:49:44,malware_alert,195.247.174.64,216.157.5.61,martha71,Malware detected: Adware on host 216.157.5.61
+2025-06-27 19:14:22,malware_alert,16.246.197.149,189.121.137.135,paullane,Malware detected: Trojan on host 189.121.137.135
+2025-06-28 03:42:27,network,49.100.211.57,220.173.49.213,jennifer56,Connection from 49.100.211.57 to 220.173.49.213 on port 41
+2025-06-27 10:40:01,auth_success,102.126.188.231,197.179.142.54,jonathan19,Successful login for user jonathan19 from 102.126.188.231
+2025-06-28 04:36:09,auth_failure,115.209.21.146,74.134.13.130,leonardjacob,Failed login attempt for user leonardjacob from 115.209.21.146
+2025-06-28 04:09:14,malware_alert,217.196.32.206,84.232.210.248,kgilbert,Malware detected: Adware on host 84.232.210.248
+2025-06-27 14:23:37,auth_success,209.64.216.102,172.154.4.124,ycastillo,Successful login for user ycastillo from 209.64.216.102
+2025-06-27 12:58:14,network,209.32.245.44,44.130.33.253,paulapril,Connection from 209.32.245.44 to 44.130.33.253 on port 135
+2025-06-27 12:10:31,network,208.226.62.12,87.33.88.206,jsimpson,Connection from 208.226.62.12 to 87.33.88.206 on port 152
+2025-06-28 01:14:59,auth_success,28.236.228.241,3.217.117.87,virginiawood,Successful login for user virginiawood from 28.236.228.241
+2025-06-28 05:37:34,auth_success,93.143.217.200,120.160.53.213,ingrammiranda,Successful login for user ingrammiranda from 93.143.217.200
+2025-06-27 10:02:47,network,193.57.176.230,222.16.53.222,jessicajohnson,Connection from 193.57.176.230 to 222.16.53.222 on port 113
+2025-06-27 14:25:53,malware_alert,117.123.197.115,101.254.131.242,browndavid,Malware detected: Trojan on host 101.254.131.242
+2025-06-27 19:59:12,malware_alert,123.243.179.196,176.133.106.203,heidibarber,Malware detected: Spyware on host 176.133.106.203
+2025-06-27 11:47:07,auth_success,142.185.214.77,208.204.66.119,ortegakayla,Successful login for user ortegakayla from 142.185.214.77
+2025-06-28 05:41:22,auth_success,26.119.86.119,103.67.28.219,louischapman,Successful login for user louischapman from 26.119.86.119
+2025-06-27 15:13:18,system,63.92.158.226,52.252.44.189,lhernandez,System started: re-contextualize holistic experiences
+2025-06-27 14:43:56,malware_alert,130.212.133.210,216.234.253.205,stephanie53,Malware detected: Trojan on host 216.234.253.205
+2025-06-27 22:25:00,network,185.52.104.67,196.17.106.248,yshaffer,Connection from 185.52.104.67 to 196.17.106.248 on port 268
+2025-06-28 02:47:55,system,44.126.160.93,25.218.193.195,xsmith,System started: drive interactive metrics
+2025-06-27 18:47:45,network,207.28.226.35,56.170.172.147,thompsonjonathan,Connection from 207.28.226.35 to 56.170.172.147 on port 253
+2025-06-27 18:43:05,auth_failure,106.38.252.211,203.122.71.145,oreyes,Failed login attempt for user oreyes from 106.38.252.211
+2025-06-28 06:49:33,auth_success,193.41.43.174,221.180.89.83,kyle76,Successful login for user kyle76 from 193.41.43.174
+2025-06-27 10:50:44,auth_success,158.39.110.153,135.127.181.71,luke05,Successful login for user luke05 from 158.39.110.153
+2025-06-27 17:05:59,auth_success,132.244.42.238,204.68.128.90,longaaron,Successful login for user longaaron from 132.244.42.238
+2025-06-28 04:37:20,auth_success,110.46.220.55,128.247.9.114,keithpeters,Successful login for user keithpeters from 110.46.220.55
+2025-06-27 17:35:39,malware_alert,24.131.117.179,79.57.1.26,kimberly13,Malware detected: Spyware on host 79.57.1.26
+2025-06-27 09:34:29,network,159.119.218.97,59.54.59.236,xwong,Connection from 159.119.218.97 to 59.54.59.236 on port 78
+2025-06-28 04:40:19,system,128.123.142.22,9.189.176.14,kathrynvaldez,System started: empower one-to-one metrics
+2025-06-27 12:13:57,auth_failure,171.138.19.133,215.254.216.236,cochranbrian,Failed login attempt for user cochranbrian from 171.138.19.133
+2025-06-27 22:34:32,auth_success,138.147.197.230,47.121.130.120,carteraustin,Successful login for user carteraustin from 138.147.197.230
+2025-06-27 14:17:36,network,118.173.26.33,194.120.107.177,ecarlson,Connection from 118.173.26.33 to 194.120.107.177 on port 155
+2025-06-27 23:13:43,auth_success,223.19.95.106,204.220.111.176,thomasortiz,Successful login for user thomasortiz from 223.19.95.106
+2025-06-28 01:49:39,system,154.129.232.237,134.91.167.137,bhartman,System started: envisioneer granular functionalities
+2025-06-27 21:23:27,auth_failure,115.191.73.123,212.207.181.162,frankbrooks,Failed login attempt for user frankbrooks from 115.191.73.123
+2025-06-27 11:46:24,malware_alert,204.33.138.27,194.26.252.73,qphelps,Malware detected: Adware on host 194.26.252.73
+2025-06-27 12:43:22,system,161.107.130.96,102.68.122.121,antonio38,System started: visualize wireless infrastructures
+2025-06-28 05:38:39,auth_failure,200.78.119.234,220.109.41.156,lanelauren,Failed login attempt for user lanelauren from 200.78.119.234
+2025-06-28 04:08:33,auth_failure,211.33.29.152,163.109.253.249,yparsons,Failed login attempt for user yparsons from 211.33.29.152
+2025-06-28 00:15:21,network,76.14.63.75,216.154.169.25,zhall,Connection from 76.14.63.75 to 216.154.169.25 on port 64
+2025-06-27 10:44:35,malware_alert,145.40.189.204,200.71.193.22,gwatson,Malware detected: Spyware on host 200.71.193.22
+2025-06-27 11:37:05,malware_alert,82.170.92.60,115.20.64.136,victorweber,Malware detected: Spyware on host 115.20.64.136
+2025-06-28 06:58:55,network,108.9.30.90,205.230.229.193,ashley99,Connection from 108.9.30.90 to 205.230.229.193 on port 123
+2025-06-27 15:40:28,network,63.36.155.17,85.51.227.244,simstimothy,Connection from 63.36.155.17 to 85.51.227.244 on port 326
+2025-06-27 20:57:09,auth_failure,130.5.13.46,115.140.142.151,meganfernandez,Failed login attempt for user meganfernandez from 130.5.13.46
+2025-06-28 03:08:30,network,196.239.13.4,215.190.85.3,zvelazquez,Connection from 196.239.13.4 to 215.190.85.3 on port 121
+2025-06-27 15:08:45,auth_failure,56.150.24.190,203.109.35.44,fkline,Failed login attempt for user fkline from 56.150.24.190
+2025-06-27 14:09:42,system,23.227.108.117,93.248.230.57,kennethwilson,System started: drive leading-edge web services
+2025-06-27 11:55:55,malware_alert,136.202.170.236,204.137.201.25,kimberly87,Malware detected: Worm on host 204.137.201.25
+2025-06-28 03:13:27,malware_alert,206.78.142.161,94.65.116.120,sherry30,Malware detected: Adware on host 94.65.116.120
+2025-06-28 06:27:26,malware_alert,28.26.189.4,206.169.80.206,vbridges,Malware detected: Spyware on host 206.169.80.206
+2025-06-28 05:03:49,auth_failure,158.247.80.76,216.44.145.24,jamesanderson,Failed login attempt for user jamesanderson from 158.247.80.76
+2025-06-28 00:21:06,malware_alert,223.144.95.67,222.141.104.173,kevin07,Malware detected: Trojan on host 222.141.104.173
+2025-06-27 19:57:46,auth_success,143.158.142.43,136.129.242.61,charlessimmons,Successful login for user charlessimmons from 143.158.142.43
+2025-06-28 06:39:22,system,220.117.120.199,219.21.149.102,nancycraig,System started: extend clicks-and-mortar networks
+2025-06-27 23:13:49,network,193.76.168.201,65.95.221.5,vincentperez,Connection from 193.76.168.201 to 65.95.221.5 on port 369
+2025-06-27 14:54:39,system,171.94.187.20,150.21.14.102,lacey31,System started: empower extensible web services
+2025-06-27 15:48:18,auth_failure,85.195.103.79,180.101.251.51,normagarner,Failed login attempt for user normagarner from 85.195.103.79
+2025-06-27 10:31:08,malware_alert,202.44.148.184,118.71.237.213,ellismargaret,Malware detected: Ransomware on host 118.71.237.213
+2025-06-28 06:49:07,auth_success,139.98.38.133,27.86.35.142,pgilbert,Successful login for user pgilbert from 139.98.38.133
+2025-06-27 19:10:15,auth_success,50.88.206.146,171.173.228.42,ygreen,Successful login for user ygreen from 50.88.206.146
+2025-06-28 05:33:22,system,176.137.45.93,157.19.249.171,phendricks,System started: enable one-to-one action-items
+2025-06-27 20:40:58,malware_alert,144.136.159.244,207.204.182.110,josephclark,Malware detected: Adware on host 207.204.182.110
+2025-06-28 07:00:17,system,47.15.18.55,51.75.133.207,carol84,System started: engage impactful e-markets
+2025-06-27 12:08:45,auth_failure,136.51.243.147,161.127.120.239,josephreynolds,Failed login attempt for user josephreynolds from 136.51.243.147
+2025-06-27 07:50:23,auth_failure,154.54.172.141,37.244.218.47,mterry,Failed login attempt for user mterry from 154.54.172.141
+2025-06-27 12:25:58,malware_alert,159.181.86.249,71.251.207.117,snguyen,Malware detected: Ransomware on host 71.251.207.117
+2025-06-27 12:29:29,system,192.220.126.62,218.195.119.104,lindsay37,System started: deploy user-centric supply-chains
+2025-06-27 18:53:42,auth_success,203.254.154.205,9.3.242.124,jillnguyen,Successful login for user jillnguyen from 203.254.154.205
+2025-06-27 20:16:46,network,113.98.135.145,193.208.12.200,jontaylor,Connection from 113.98.135.145 to 193.208.12.200 on port 171
+2025-06-28 02:10:33,auth_failure,82.53.18.77,134.108.36.74,ncampbell,Failed login attempt for user ncampbell from 82.53.18.77
+2025-06-27 21:33:49,system,161.15.20.62,181.78.81.43,ortegachristina,System started: reinvent cutting-edge e-commerce
+2025-06-27 23:14:33,system,188.114.195.46,136.196.160.64,carlos17,System started: grow front-end bandwidth
+2025-06-28 06:06:30,network,199.166.87.230,216.23.118.190,thomasrosales,Connection from 199.166.87.230 to 216.23.118.190 on port 116
+2025-06-28 05:07:19,auth_failure,138.170.117.69,63.193.231.95,zherrera,Failed login attempt for user zherrera from 138.170.117.69
+2025-06-27 12:50:48,malware_alert,222.181.244.23,183.27.226.122,mullinslydia,Malware detected: Worm on host 183.27.226.122
+2025-06-28 04:02:21,auth_failure,138.105.128.201,155.244.247.234,qcortez,Failed login attempt for user qcortez from 138.105.128.201
+2025-06-27 14:53:41,system,62.53.22.152,91.114.189.239,steven85,System started: deliver next-generation paradigms
+2025-06-27 12:15:44,auth_failure,216.201.30.116,203.130.13.167,yolandaking,Failed login attempt for user yolandaking from 216.201.30.116
+2025-06-27 22:37:17,network,50.93.113.166,159.195.44.182,alexander12,Connection from 50.93.113.166 to 159.195.44.182 on port 173
+2025-06-28 00:18:36,malware_alert,79.234.225.28,152.64.130.130,chrislewis,Malware detected: Trojan on host 152.64.130.130
+2025-06-27 20:32:27,system,205.169.93.130,203.164.16.17,pearsondavid,System started: re-intermediate user-centric applications
+2025-06-28 01:11:12,network,16.89.120.96,9.214.153.238,abell,Connection from 16.89.120.96 to 9.214.153.238 on port 41
+2025-06-27 08:17:13,malware_alert,71.190.170.213,212.199.227.191,matthew03,Malware detected: Trojan on host 212.199.227.191
+2025-06-28 00:08:41,auth_success,134.135.183.127,102.30.109.171,daycarol,Successful login for user daycarol from 134.135.183.127
+2025-06-27 16:32:33,malware_alert,184.190.253.83,191.73.208.199,douglas19,Malware detected: Spyware on host 191.73.208.199
+2025-06-27 13:06:22,network,213.242.174.100,25.94.11.110,earlhorne,Connection from 213.242.174.100 to 25.94.11.110 on port 367
+2025-06-28 04:21:02,malware_alert,214.214.54.89,216.101.39.122,angela02,Malware detected: Worm on host 216.101.39.122
+2025-06-28 01:16:26,network,28.23.98.232,61.74.68.94,simmonssusan,Connection from 28.23.98.232 to 61.74.68.94 on port 135
